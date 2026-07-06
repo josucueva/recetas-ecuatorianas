@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "uid": "entrada-1",
     "title": "Aguacates rellenos con atún",
     "description": "Deliciosos aguacates cremosos rellenos con ensalada de atún y vegetales. Puede acompañarse con cilantro picadito.",
     "preparation_time_min": 30,
@@ -25,6 +26,7 @@
   },
   {
     "id": 2,
+    "uid": "entrada-2",
     "title": "Aguacates rellenos con camarones",
     "description": "Los aguacates rellenos con camarones son una de las entradas más deliciosas de la gastronomía ecuatoriana. El exquisito relleno se realiza con el camarón como estrella, acompañado de rábanos, pimientos, huevos y mayonesa de hierbas. Te invitamos a disfrutarlos.",
     "preparation_time_min": 60,
@@ -52,6 +54,7 @@
   },
   {
     "id": 3,
+    "uid": "entrada-3",
     "title": "Ají de librillo",
     "description": "El ají de librillo es un platillo muy apetecido en la sierra ecuatoriano y se lo puede encontrar en los mercados populares a precios económicos.",
     "preparation_time_min": 60,
@@ -84,6 +87,7 @@
   },
   {
     "id": 4,
+    "uid": "entrada-4",
     "title": "Alitas de pollo a la bbq",
     "description": "Exquisitas alitas de pollo con salsa BBQ Ideal como entrada. Muy consumida en Ecuador.",
     "preparation_time_min": 60,
@@ -115,6 +119,7 @@
   },
   {
     "id": 5,
+    "uid": "entrada-5",
     "title": "Alitas de pollo con salsa huacatay",
     "description": "Las alitas de pollo son uno de esos entremeses que a todos nos encanta. Con su textura crujiente y acompañados de una exquisita salsa de huacatay, que le aporta ese sabor picante suave, lo convertirá en la delicia de muchos. Anímate a prepararlas y disfrutarlas.",
     "preparation_time_min": 60,
@@ -151,6 +156,7 @@
   },
   {
     "id": 6,
+    "uid": "entrada-6",
     "title": "Bandejita mixta de lomo y cerdo",
     "description": "Exquisito plato mixto. Compuesto por carne de res y carne de cerdo. Junto con una mezcla de vegetales.",
     "preparation_time_min": 120,
@@ -180,6 +186,7 @@
   },
   {
     "id": 7,
+    "uid": "entrada-7",
     "title": "Bolón de Verde",
     "description": "El bolón de verde está considerado como el plato nacional de la República del Ecuador y posee como ingrediente estrella el plátano verde, del cual Ecuador es uno de los mayores productores a nivel mundial.",
     "preparation_time_min": 30,
@@ -204,6 +211,7 @@
   },
   {
     "id": 8,
+    "uid": "entrada-8",
     "title": "Bonitísimas",
     "description": "Las Bonitísimas son deliciosas tortillas de harina de maíz rellenas de queso y papa.",
     "preparation_time_min": 60,
@@ -233,6 +241,7 @@
   },
   {
     "id": 9,
+    "uid": "entrada-9",
     "title": "Brochetas de langostinos",
     "description": "Las brochetas de langostinos son una excelente opción para comer de forma sana y deliciosa y su preparación es muy sencilla.",
     "preparation_time_min": 30,
@@ -255,6 +264,7 @@
   },
   {
     "id": 10,
+    "uid": "entrada-10",
     "title": "Calamares fritos",
     "description": "Los calamares fritos son uno de los platillos más deliciosos para compartir como botanas o abrebocas. En la gastronomía ecuatoriana no pueden faltar, con su fresco sabor y su textura crujiente será una delicia a su paladar.",
     "preparation_time_min": 60,
@@ -283,6 +293,7 @@
   },
   {
     "id": 11,
+    "uid": "entrada-11",
     "title": "Camarones apanados ecuatorianos",
     "description": "Crocantes camarones apanados al estilo ecuatoriano. Se puede servir con arroz blanco.",
     "preparation_time_min": 30,
@@ -309,6 +320,7 @@
   },
   {
     "id": 12,
+    "uid": "entrada-12",
     "title": "Carne en Palito",
     "description": "La carne en palito es un plato nacional y tradicional de la gastronomía del Ecuador, principalmente de su Región Litoral. Es también conocido como chuzo o pinchos. Puede servirse como entrada condimentado con unas gotas de ají o acompañado de una salsa.",
     "preparation_time_min": 60,
@@ -334,6 +346,7 @@
   },
   {
     "id": 13,
+    "uid": "entrada-13",
     "title": "Ceviche de Camarón",
     "description": "El ceviche de camarón ecuatoriano es una de las recetas más fáciles y rápidas de preparar. Es considerado como el plato estrella dentro de la gastronomía ecuatoriana.",
     "preparation_time_min": 60,
@@ -361,6 +374,7 @@
   },
   {
     "id": 14,
+    "uid": "entrada-14",
     "title": "Ceviche de camarón ecuatoriano",
     "description": "El ceviche de camarón ecuatoriano es un plato delicioso y rápido, considerado la estrella de la marisquería ecuatoriana.",
     "preparation_time_min": 60,
@@ -388,6 +402,7 @@
   },
   {
     "id": 15,
+    "uid": "entrada-15",
     "title": "Ceviche de canchalagua",
     "description": "El ceviche de canchalagua es un plato que ha ganado muchos seguidores en las islas galápagos (principalmente en San Cristóbal)",
     "preparation_time_min": 60,
@@ -417,6 +432,7 @@
   },
   {
     "id": 16,
+    "uid": "entrada-16",
     "title": "Ceviche de canchalaguas",
     "description": "El ceviche en sus diferentes versiones es un indispensable en todo Ecuador, en este caso se prepara con pescado canchalagua.",
     "preparation_time_min": 60,
@@ -444,6 +460,7 @@
   },
   {
     "id": 17,
+    "uid": "entrada-17",
     "title": "Ceviche de champiñones",
     "description": "Un delicioso plato vegetariano Este delicioso plato es muy común de la zona de Pesillo en Ecuador. Su elaboración es similar al tradicional ceviche de pescado con la variante de que el ingrediente estrella son los hongos comestibles. Su preparación es muy fácil por lo que te invitamos a probarlo. Anímate.",
     "preparation_time_min": 60,
@@ -469,6 +486,7 @@
   },
   {
     "id": 18,
+    "uid": "entrada-18",
     "title": "Ceviche de Chochos",
     "description": "En Ecuador, especialmente en la región andina, hay un ceviche vegetariano muy popular que se prepara con chochos (tipo de legumbre, leguminosa o granos).",
     "preparation_time_min": 30,
@@ -494,6 +512,7 @@
   },
   {
     "id": 19,
+    "uid": "entrada-19",
     "title": "Ceviche de conchas",
     "description": "Una receta tradicional ecuatoriana, el delicioso ceviche de conchas negras. Este platillo se prepara a base de conchas prietas embebidas en un curtido de cebollas, tomates limón sutil y culantro. Se degusta acompañadas de patacones o maíz tostado.",
     "preparation_time_min": 120,
@@ -522,6 +541,7 @@
   },
   {
     "id": 20,
+    "uid": "entrada-20",
     "title": "Ceviche de corvina",
     "description": "En Ecuador uno de los platos típicos es el ceviche de pescado. Suele prepararse con una variedad de estos, pero en esta ocasión lo haremos con corvina fresca. Una explosión de sabores y la textura tierna del pescado marinado en limón, le confieren un lugar privilegiado dentro de la cocina latinoamericana.",
     "preparation_time_min": 60,
@@ -545,6 +565,7 @@
   },
   {
     "id": 21,
+    "uid": "entrada-21",
     "title": "Ceviche de langostinos",
     "description": "Delicia de sabor preparado como ceviche. Compuestos por langostinos frescos y cilantro picadito. Ideal como entrada.",
     "preparation_time_min": 60,
@@ -572,6 +593,7 @@
   },
   {
     "id": 22,
+    "uid": "entrada-22",
     "title": "Ceviche de Pescado",
     "description": "En Ecuador hay diferentes recetas del ceviche, ya sea de pescado o de mariscos, y cada región considera que su ceviche es el mejor. Sin embargo, el encanto de este plato está en la cocción o encurtido del pescado en limón, los ácidos le dan un sabor y una textura exquisita.",
     "preparation_time_min": 30,
@@ -597,6 +619,7 @@
   },
   {
     "id": 23,
+    "uid": "entrada-23",
     "title": "Ceviche de pollo",
     "description": "El ceviche de pollo es una variante muy interesante del tradicional ceviche de pescado y tiene gran aceptación en la población de la sierra ecuatoriana.",
     "preparation_time_min": 120,
@@ -631,6 +654,7 @@
   },
   {
     "id": 24,
+    "uid": "entrada-24",
     "title": "Ceviche de pulpo ecuatoriano",
     "description": "El ceviche de pulpo al estilo ecuatoriano es un plato delicioso cuya preparación combina la frescura y jugosidad del pulpo con el sabor de vegetales y hierbas aromáticas. Para los amantes de los frutos del mar, esta receta los transportará a otra dimensión. No puedes perdértela.",
     "preparation_time_min": 60,
@@ -659,6 +683,7 @@
   },
   {
     "id": 25,
+    "uid": "entrada-25",
     "title": "Ceviche mixto de camarón y pescado",
     "description": "Exquisito ceviche mixto compuesto por camarones, pescado. Preparados con una deliciosa salsa de tomate y un toque de cilantro picadito al final.",
     "preparation_time_min": 120,
@@ -688,6 +713,7 @@
   },
   {
     "id": 26,
+    "uid": "entrada-26",
     "title": "Ceviche Volquetero",
     "description": "El ceviche volquetero se originó en la región del Oriente o Amazonia del Ecuador, específicamente en Puyo. A diferencia del ceviche tradicional de pescado, esta receta se prepara con atún enlatado, convirtiéndolo en un plato rápido y fácil de preparar.",
     "preparation_time_min": 30,
@@ -711,6 +737,7 @@
   },
   {
     "id": 27,
+    "uid": "entrada-27",
     "title": "Chapati",
     "description": "El chapati es un pan sin levadura típico de la India y Pakistán, pero es muy consumido en Ecuador debido a la influencia que tiene la comida hindú en el país.",
     "preparation_time_min": 60,
@@ -732,6 +759,7 @@
   },
   {
     "id": 28,
+    "uid": "entrada-28",
     "title": "Chicha de chonta y maduro",
     "description": "La chicha de chonta y maduro es una bebida ancestral y muy tradicional de Ecuador. Se elabora a base de los frutos de una palmera conocida como chonta, cuyo sabor es fuerte y un poco ácido. Se acompaña de maduros que le aportan cremosidad y dulzor. No puedes perdértela.",
     "preparation_time_min": 60,
@@ -758,6 +786,7 @@
   },
   {
     "id": 29,
+    "uid": "entrada-29",
     "title": "Chicharrón de cerdo ecuatoriano",
     "description": "El suculento chicharrón de cerdo al estilo ecuatoriano, es un plato lleno de sabores y texturas. La carne de cerdo debe quedar bien tostada y crujiente pero jugosa por dentro, y generalmente se sirve acompañada de plátanos, mote o cebollas encurtidas. Anímate a preparar esta deliciosa receta.",
     "preparation_time_min": 120,
@@ -784,6 +813,7 @@
   },
   {
     "id": 30,
+    "uid": "entrada-30",
     "title": "Chifles de platano crocantes",
     "description": "Crocantes chifles de plátano. Esta entrada es muy consumida en Ecuador. Se sazona con un toque de sal.",
     "preparation_time_min": 30,
@@ -800,6 +830,7 @@
   },
   {
     "id": 31,
+    "uid": "entrada-31",
     "title": "Chifles Ecuatorianos",
     "description": "Los chifles son frituras de plátano verde. También se conocen como platanitos o chips. Los chifles son un excelente acompañante para sopas, ceviches y cervezas, o son ideales como entrada acompañados con salsas como ají criollo, curtido de tomate y cebolla, o salsa rosada.",
     "preparation_time_min": 30,
@@ -821,6 +852,7 @@
   },
   {
     "id": 32,
+    "uid": "entrada-32",
     "title": "Chifles o platanitos",
     "description": "Los platanitos o chifles ecuatorianos son chips fritos de plátano verde. Son un snack que acompaña muy bien una cerveza fría.",
     "preparation_time_min": 30,
@@ -842,6 +874,7 @@
   },
   {
     "id": 33,
+    "uid": "entrada-33",
     "title": "Choclos con salsa de queso",
     "description": "Delicia de choclos con exquisita salsa de queso. Se puede hervir o asar. Según la preferencia.",
     "preparation_time_min": 30,
@@ -865,6 +898,7 @@
   },
   {
     "id": 34,
+    "uid": "entrada-34",
     "title": "Choclos con Salsa de Queso y Cilantro",
     "description": "En Ecuador, es típico encontrar venta de choclos asados en las calles. Suelen servirlos con una deliciosa salsa de queso y cilantro. Esta receta ecuatoriana es muy fácil de preparar y es ideal como entrada o acompañante de otros platos.",
     "preparation_time_min": 30,
@@ -890,6 +924,7 @@
   },
   {
     "id": 35,
+    "uid": "entrada-35",
     "title": "Chulpi",
     "description": "El chulpi o maíz tostado es muy popular en Ecuador y se sirve como acompañante para ceviches o como aperitivo.",
     "preparation_time_min": 15,
@@ -910,6 +945,7 @@
   },
   {
     "id": 36,
+    "uid": "entrada-36",
     "title": "Chulpi tostado",
     "description": "El maíz tostado conocido comúnmente como chulpi es un snack tradicional de Ecuador, se sirve como acompañante de la cerveza vespertina.",
     "preparation_time_min": 30,
@@ -930,6 +966,7 @@
   },
   {
     "id": 37,
+    "uid": "entrada-37",
     "title": "Conchas asadas",
     "description": "Esta exquisitez es uno de los platillos típicos de la costa ecuatoriana. Regularmente se preparan a la parrilla pero también pueden degustarse asadas al horno. Su elaboración es sencilla y se sirven acompañadas de una rica salsa, patacones y rodajas de limón.",
     "preparation_time_min": 60,
@@ -959,6 +996,7 @@
   },
   {
     "id": 38,
+    "uid": "entrada-38",
     "title": "Corviche de pescado",
     "description": "El corviche es una entrada típica de la costa ecuatoriana (especialmente en la provincia de Manabí)",
     "preparation_time_min": 60,
@@ -990,6 +1028,7 @@
   },
   {
     "id": 39,
+    "uid": "entrada-39",
     "title": "Deditos de queso o mortadela",
     "description": "Los deditos de queso o mortadela son envueltos con masa y fritos hasta que estén dorados y son el aperitivo perfecto para fiestas y reuniones de todo tipo.",
     "preparation_time_min": 30,
@@ -1016,6 +1055,7 @@
   },
   {
     "id": 40,
+    "uid": "entrada-40",
     "title": "Empanada de viento",
     "description": "Las empanadas de viento se las conoce de esa manera porque se soplan o inflan al freírlas son muy populares especialmente en Quito",
     "preparation_time_min": 60,
@@ -1044,6 +1084,7 @@
   },
   {
     "id": 41,
+    "uid": "entrada-41",
     "title": "Empanada verde",
     "description": "Deliciosas empanadas a base de plátanos verdes con un toque dulce. Rellenas con queso.",
     "preparation_time_min": 30,
@@ -1065,6 +1106,7 @@
   },
   {
     "id": 42,
+    "uid": "entrada-42",
     "title": "Empanadas de atún",
     "description": "Las deliciosas empanadas de atún son una de las recetas más fáciles de preparar. Suelen servirse como platillos de entrada en cualquier ocasión y su secreto está en las variantes del relleno, que le aportarán ese toque especial.",
     "preparation_time_min": 60,
@@ -1099,6 +1141,7 @@
   },
   {
     "id": 43,
+    "uid": "entrada-43",
     "title": "Empanadas de dulce mejido",
     "description": "Las empanadas de dulce de mejido son famosas en toda la región serrana del Ecuador, son empanadas dulces fritas de sabor único.",
     "preparation_time_min": 60,
@@ -1128,6 +1171,7 @@
   },
   {
     "id": 44,
+    "uid": "entrada-44",
     "title": "Empanadas de maíz",
     "description": "Las empanadas de maíz son un delicioso bocadillo que se puede comer todos los días, en Ecuador se consumen en todas las regiones y estas empanadas pueden ser rellenadas con una gran variedad de ingredientes",
     "preparation_time_min": 60,
@@ -1160,6 +1204,7 @@
   },
   {
     "id": 45,
+    "uid": "entrada-45",
     "title": "Empanadas de mejido",
     "description": "Las empanadas de mejido son tradicionales de la Sierra del Ecuador, estas jugosas empanadas fritas tiene un delicioso relleno de dulce mejido para saborear en familia.",
     "preparation_time_min": 120,
@@ -1187,6 +1232,7 @@
   },
   {
     "id": 46,
+    "uid": "entrada-46",
     "title": "Empanadas de morocho",
     "description": "La empanada de morocho es una receta tradicional que forma parte de la trilogía de las empanadas ecuatorianas y son ideales para acompañar con café, agua aromática y cualquier otra bebida.",
     "preparation_time_min": 60,
@@ -1217,6 +1263,7 @@
   },
   {
     "id": 47,
+    "uid": "entrada-47",
     "title": "Empanadas de verde rellenas con camarón",
     "description": "Las deliciosas empanadas de verde, son muy tradicionales en el Ecuador. Su preparación es sencilla y se basa en una masa de plátano verde que se rellena con un condumio de carne, con queso o camarones. Sin lugar a dudas son una delicia que si no la has probado, ya es tiempo de hacerlo.",
     "preparation_time_min": 60,
@@ -1250,6 +1297,7 @@
   },
   {
     "id": 48,
+    "uid": "entrada-48",
     "title": "Empanadas de Verde Rellenas con Queso",
     "description": "Las empanadas de verde se preparan con una masa de plátano verde y se rellenan con queso, carne o mariscos. Las empanadas de verde se sirven con ají y un café para el desayuno, o también como aperitivo o acompañante.",
     "preparation_time_min": 120,
@@ -1277,6 +1325,7 @@
   },
   {
     "id": 49,
+    "uid": "entrada-49",
     "title": "Empanadas de verde y queso",
     "description": "Estas empanadas se preparan a base de plátano verde en su masa, son ideales para el desayuno o como snack por la tarde.",
     "preparation_time_min": 120,
@@ -1303,6 +1352,7 @@
   },
   {
     "id": 50,
+    "uid": "entrada-50",
     "title": "Empanadas de viento ecuatorianas",
     "description": "Las empanadas de viento son muy populares en la Quito, la capital de Ecuador, son llamadas de esa forma porque se inflan al freírlas.",
     "preparation_time_min": 30,
@@ -1330,6 +1380,7 @@
   },
   {
     "id": 51,
+    "uid": "entrada-51",
     "title": "Ensalada César",
     "description": "La ensalada César tiene principalmente lechuga romana y es una de las más populares y conocidas del mundo y en Ecuador se la puede encontrar en la mayoría de los restaurantes.",
     "preparation_time_min": 30,
@@ -1361,6 +1412,7 @@
   },
   {
     "id": 52,
+    "uid": "entrada-52",
     "title": "Ensalada de atún con tomate y cebolla",
     "description": "La ensalada de atún es una receta saludable y de fácil de preparación. En la gastronomía ecuatoriana, es una de las delicias que usualmente encontramos, con el atún como protagonista y acompañado de muchas variantes. Te invitamos a que no dejes de probarla. Disfrútala.",
     "preparation_time_min": 60,
@@ -1385,6 +1437,7 @@
   },
   {
     "id": 53,
+    "uid": "entrada-53",
     "title": "Ensalada de camarones y manzanas",
     "description": "Los camarones son considerados afrodisíacos en Ecuador. Son parte del grupo de los mariscos y aportan al organismo elementos muy importantes para conservar o mejorar la salud masculina.",
     "preparation_time_min": 30,
@@ -1414,6 +1467,7 @@
   },
   {
     "id": 54,
+    "uid": "entrada-54",
     "title": "Ensalada de cangrejo",
     "description": "Esta rica ensalada es una de las delicias de la cocina ecuatoriana, que se prepara preferiblemente con cangrejos frescos. Es muy fácil de elaborar y puede disfrutarse acompañada de un rico encurtido de cebollas.",
     "preparation_time_min": 60,
@@ -1444,6 +1498,7 @@
   },
   {
     "id": 55,
+    "uid": "entrada-55",
     "title": "Ensalada de cuscus",
     "description": "Exquisita y fresca ensalada a base de cuscus y vegetales. Con un suculento aderezo de miel y mostaza.",
     "preparation_time_min": 30,
@@ -1472,6 +1527,7 @@
   },
   {
     "id": 56,
+    "uid": "entrada-56",
     "title": "Ensalada de palmito y aguacate",
     "description": "El palmito y el aguacate son muy consumidos por los ecuatorianos. Además Ecuador es el principal exportador de palmito.",
     "preparation_time_min": 30,
@@ -1499,6 +1555,7 @@
   },
   {
     "id": 57,
+    "uid": "entrada-57",
     "title": "Ensalada de rabano",
     "description": "Rica y fresca ensalada de rabano. Acompañada con deliciosos vegetales y garbanzos.",
     "preparation_time_min": 60,
@@ -1527,6 +1584,7 @@
   },
   {
     "id": 58,
+    "uid": "entrada-58",
     "title": "Fritada con chifle y salsa",
     "description": "Deliciosa carne de cerdo crocantes acompañada con chifle y salsa por encima. Este plato es una delicia de Ecuador.",
     "preparation_time_min": 120,
@@ -1556,6 +1614,7 @@
   },
   {
     "id": 59,
+    "uid": "entrada-59",
     "title": "Hayacas de gallina",
     "description": "Las hayacas de gallina, son pasteles similares a los tamales y se basan principalmente en la harina de maíz.",
     "preparation_time_min": 60,
@@ -1590,6 +1649,7 @@
   },
   {
     "id": 60,
+    "uid": "entrada-60",
     "title": "Humitas",
     "description": "Las humitas son un plato típico de la región andina de Ecuador y se suelen servir con café en la tarde o para el desayuno, aunque son deliciosas a cualquier hora. Las humitas son pastelitos envueltos que se preparan con choclos o maíz tierno y queso.",
     "preparation_time_min": 60,
@@ -1617,6 +1677,7 @@
   },
   {
     "id": 61,
+    "uid": "entrada-61",
     "title": "Humitas dulces",
     "description": "Las humitas son un plato característico de Ecuador. Compuesto a base de choclos tiernos. Toda una exquisitez.",
     "preparation_time_min": 60,
@@ -1644,6 +1705,7 @@
   },
   {
     "id": 62,
+    "uid": "entrada-62",
     "title": "Humitas ecuatorianas",
     "description": "Las humitas son pastelitos que se preparan con choclo y queso, un plato típico de la región andina de Ecuador que se acompañan bien con café.",
     "preparation_time_min": 120,
@@ -1671,6 +1733,7 @@
   },
   {
     "id": 63,
+    "uid": "entrada-63",
     "title": "Jugo de guayabas",
     "description": "Rico, fresco y simple, el batido de guayaba es un indispensable en todas las playas y zona costera del Ecuador.",
     "preparation_time_min": 120,
@@ -1691,6 +1754,7 @@
   },
   {
     "id": 64,
+    "uid": "entrada-64",
     "title": "Llapingacho",
     "description": "Los llapingachos ecuatorianos son un plato típico de la gastronomía del país, realizados con puré de papas y queso tienen la particularidad de prepararse con una papa que posee mucho almidón, dejandole una textura única.",
     "preparation_time_min": 120,
@@ -1714,6 +1778,7 @@
   },
   {
     "id": 65,
+    "uid": "entrada-65",
     "title": "Llapingachos",
     "description": "Los llapingachos son un plato típico ecuatoriano que consiste de tortillas de puré de papa rellenas con queso. Se sirven para el desayuno, como entrada o como acompañantes para muchos otros platos ecuatorianos. Los llapingachos se preparan con la papa chola, que es una variedad de papa con mucho almidón, para lograr la textura necesaria para que los llapingachos queden esponjosos.",
     "preparation_time_min": 60,
@@ -1736,6 +1801,7 @@
   },
   {
     "id": 66,
+    "uid": "entrada-66",
     "title": "Longuitos de choclo",
     "description": "Los longuitos de choclo son un delicioso platillo que se sirve calientito y se puede degustar en cualquier momento acompañado de ají.",
     "preparation_time_min": 120,
@@ -1771,6 +1837,7 @@
   },
   {
     "id": 67,
+    "uid": "entrada-67",
     "title": "Maduro con queso",
     "description": "Los maduros con queso siempre serán los favoritos en cualquier parte de Ecuador. Se sirven con queso.",
     "preparation_time_min": 60,
@@ -1791,6 +1858,7 @@
   },
   {
     "id": 68,
+    "uid": "entrada-68",
     "title": "Maduro lampreado",
     "description": "El maduro lampreado se consume en gran parte de la costa ecuatoriana (Manabí, Esmeraldas, Guayas y Los Ríos) y es considerado una delicia por los turistas. La preparación del maduro lampreado es muy fácil y sabrosa.",
     "preparation_time_min": 60,
@@ -1818,6 +1886,7 @@
   },
   {
     "id": 69,
+    "uid": "entrada-69",
     "title": "Muchines de yuca",
     "description": "Los muchines son un aperitivo clásico de todo el Ecuador. Se preparan con una masa de yuca y se utilizan diversos rellenos.",
     "preparation_time_min": 120,
@@ -1843,6 +1912,7 @@
   },
   {
     "id": 70,
+    "uid": "entrada-70",
     "title": "Muchines de yuca rellenos de carne",
     "description": "Los muchines de yuca son un plato típico de Ecuador. Se emplea masa de yuca y podemos rellenarlas de carne y huevo.",
     "preparation_time_min": 60,
@@ -1875,6 +1945,7 @@
   },
   {
     "id": 71,
+    "uid": "entrada-71",
     "title": "Pan de ajo",
     "description": "El pan de ajo se puede servir sólo o acompañado de queso o embutido. Se puede preparar con antelación ya que aguanta crujiente hasta el día siguiente, aunque es mejor prepararlo la misma jornada.",
     "preparation_time_min": 15,
@@ -1896,6 +1967,7 @@
   },
   {
     "id": 72,
+    "uid": "entrada-72",
     "title": "Pan de Yuca",
     "description": "El pan de yuca es un aperitivo originario de la costa ecuatoriana y uno de los platos más representativos de Ecuador. Su receta es muy sencilla y se suele consumir en el desayuno o merienda, aunque también está presente en la mesa a la hora del almuerzo como guarnición de otras comidas más fuertes.",
     "preparation_time_min": 120,
@@ -1920,6 +1992,7 @@
   },
   {
     "id": 73,
+    "uid": "entrada-73",
     "title": "Papa a la huancaina",
     "description": "Si bien la papa a la huancaina tiene su origen en el Perú, actualmente es un platillo que se puede disfrutar en casi todos los países de la región, incluido Ecuador que tiene gran influencia de la comida peruana.",
     "preparation_time_min": 60,
@@ -1946,6 +2019,7 @@
   },
   {
     "id": 74,
+    "uid": "entrada-74",
     "title": "Patacones",
     "description": "Los patacones, también llamados tostones o plátanos verdes fritos son uno de los alimentos estrella en la cocina ecuatoriana. Son fáciles de hacer y se preparan con uno de los principales productos autóctonos del Ecuador, el plátano. Se ideales como entrada o acompañamiento de diferentes platos.",
     "preparation_time_min": 60,
@@ -1967,6 +2041,7 @@
   },
   {
     "id": 75,
+    "uid": "entrada-75",
     "title": "Pernil de cerdo",
     "description": "El pernil de cerdo es la extremidad trasera del cerdo horneada, se suele acompañar de tortillas de papa o papas cocidas.",
     "preparation_time_min": 120,
@@ -1999,6 +2074,7 @@
   },
   {
     "id": 76,
+    "uid": "entrada-76",
     "title": "Plátanos maduros fritos",
     "description": "Los plátanos maduros fritos son totalmente una delicia de entrada. Se pueden comer solos o como acompañantes.",
     "preparation_time_min": 30,
@@ -2015,6 +2091,7 @@
   },
   {
     "id": 77,
+    "uid": "entrada-77",
     "title": "Risotto de camarones y aguacate",
     "description": "El risotto de camarones y aguacate es una verdadera delicia que contiene dos productos muy consumidos en todo el territorio ecuatoriano y que incluso son considerados afrodisíacos.",
     "preparation_time_min": 60,
@@ -2044,6 +2121,7 @@
   },
   {
     "id": 78,
+    "uid": "entrada-78",
     "title": "Salchipapas Ecuatorianas",
     "description": "En Ecuador, es común encontrarse con las clásicas salchipapas en ferias y fiestas. Es una entrada muy rica de papas fritas con salchichas. Es un plato súper fácil de hacer. Es perfecto para los días en que no hay mucho ánimo de cocinar o cuando hay visitas.",
     "preparation_time_min": 60,
@@ -2065,6 +2143,7 @@
   },
   {
     "id": 79,
+    "uid": "entrada-79",
     "title": "Salsa de chochos",
     "description": "La receta de la salsa de chocho es un acompañante perfecto con un sabor exquisito para degustarla en diversos platos.",
     "preparation_time_min": 60,
@@ -2092,6 +2171,7 @@
   },
   {
     "id": 80,
+    "uid": "entrada-80",
     "title": "Seco de gallina",
     "description": "El seco es un guiso tradicional de los hogares ecuatorianos, se prepara con todo tipo de carnes siendo en este caso un seco con carne de gallina.",
     "preparation_time_min": 120,
@@ -2122,6 +2202,7 @@
   },
   {
     "id": 81,
+    "uid": "entrada-81",
     "title": "Tamal Lojano",
     "description": "El tamal lojano es una receta de gran tradición y es una verdadera delicia de la ciudad de Loja que es única por sus ingredientes.",
     "preparation_time_min": 120,
@@ -2157,6 +2238,7 @@
   },
   {
     "id": 82,
+    "uid": "entrada-82",
     "title": "Tortilla de verde ecuatoriana",
     "description": "Las deliciosas tortillas de verde, son un plato muy típico de la gastronomía ecuatoriana, preparadas a base de una masa de plátanos verdes rellenas con queso. Su preparación es muy sencilla y suelen degustarse acompañadas con diversas salsas que le aportan un rico sabor.",
     "preparation_time_min": 60,
@@ -2182,6 +2264,7 @@
   },
   {
     "id": 83,
+    "uid": "entrada-83",
     "title": "Tortillas de quinua",
     "description": "Las tortillas de quinua son una delicia que se comparte en algunos hogares, pueden servirse calientes.",
     "preparation_time_min": 60,
@@ -2214,6 +2297,7 @@
   },
   {
     "id": 84,
+    "uid": "entrada-84",
     "title": "Tortillas de yuca",
     "description": "La tortilla de yuca ecuatoriana es una interesante opción que no puede hacer falta en los desayunos de los hogares ecuatorianos principalmente en la región costa y oriente.",
     "preparation_time_min": 60,
@@ -2238,6 +2322,7 @@
   },
   {
     "id": 85,
+    "uid": "entrada-85",
     "title": "Tripa mishki",
     "description": "La tripa mishqui es un plato muy popular en Ecuador que se elabora con las partes internas de la res (intestinos). Esta receta es una versión de un snack de papas rellena de tripa, combinada con una deliciosa salsa de maní. Suele servirse con un encurtido de cebollas y tomate, mote o guineos cocidos.",
     "preparation_time_min": 60,
@@ -2275,6 +2360,7 @@
   },
   {
     "id": 86,
+    "uid": "entrada-86",
     "title": "Turrón de verduras y frutas",
     "description": "El turrón de verduras y frutas es una deliciosa entrada que a la vez es saludable y tiene gran aceptación.",
     "preparation_time_min": 60,
@@ -2305,6 +2391,7 @@
   },
   {
     "id": 87,
+    "uid": "entrada-87",
     "title": "Verde con salprieta",
     "description": "El verde con salprieta es la receta número 1 de los hogares manabitas y es hecho a base de maní y maíz, con un toque de cilantro.",
     "preparation_time_min": 30,
@@ -2333,6 +2420,7 @@
   },
   {
     "id": 88,
+    "uid": "entrada-88",
     "title": "Verdes con salprieta",
     "description": "Esta receta simple y deliciosa de verdes con salprieta es la preferida de toda la provincia de Manabí realizada con los típicos ingredientes ecuatorianos.",
     "preparation_time_min": 120,
@@ -2359,6 +2447,7 @@
   },
   {
     "id": 89,
+    "uid": "entrada-89",
     "title": "Wantan relleno de carne",
     "description": "El Wantan es una especialidad de la gastronomía china compuesta por agua, harina y sal que se puede encontrar en todos los chifas del Ecuador, son muy deliciosos los que encontramos especialmente en el cantón Quevedo en la provincia de Los Ríos",
     "preparation_time_min": 60,
@@ -2386,6 +2475,7 @@
   },
   {
     "id": 1,
+    "uid": "sopa-1",
     "title": "Aguado de Gallina",
     "description": "El aguado es una sopa tradicional muy antigua de Ecuador que se prepara con gallina o pollo y arroz. Es un plato nutritivo y delicioso, especialmente cuando se consume a mitad de la noche.",
     "preparation_time_min": 120,
@@ -2419,6 +2509,7 @@
   },
   {
     "id": 2,
+    "uid": "sopa-2",
     "title": "Aguado de pollo",
     "description": "Rica sopa ideal para tiempos de frio. Muy consumida en Ecuador. Se puede acompañar con arroz.",
     "preparation_time_min": 60,
@@ -2449,6 +2540,7 @@
   },
   {
     "id": 3,
+    "uid": "sopa-3",
     "title": "Ají de Carne",
     "description": "El ají de carne es una sopa muy deliciosa, la combinación de las tiras de carne y el picante de la sopa te hará sentir un exquisito sabor en tu paladar.",
     "preparation_time_min": 120,
@@ -2480,6 +2572,7 @@
   },
   {
     "id": 4,
+    "uid": "sopa-4",
     "title": "Biche de Pescado",
     "description": "El biche de pescado, también conocido como viche, es una deliciosa sopa típica de Manabí, Ecuador. Este plato tradicional de la gastronomía ecuatoriana tiene mucha consistencia y el contraste de los sabores es exquisito.",
     "preparation_time_min": 120,
@@ -2516,6 +2609,7 @@
   },
   {
     "id": 5,
+    "uid": "sopa-5",
     "title": "Caldo blanco ecuatoriano",
     "description": "El caldo blanco es un plato típico ecuatoriano con un delicioso sabor y que se degusta bien caliente. Este caldo es bastante ligero que debe tener una consistencia cristalina, lo cual es característico del plato. No pierdas la oportunidad de aprender a elaborarlo.",
     "preparation_time_min": 60,
@@ -2545,6 +2639,7 @@
   },
   {
     "id": 6,
+    "uid": "sopa-6",
     "title": "Caldo de Albóndigas",
     "description": "El caldo de albóndigas es una preparación muy deliciosa para disfrutarla en familia.",
     "preparation_time_min": 120,
@@ -2581,6 +2676,7 @@
   },
   {
     "id": 7,
+    "uid": "sopa-7",
     "title": "Caldo de albóndigas de verde",
     "description": "Este caldo es una sopa típica de la costa del Ecuador, realizado con albóndigas de plátano verde y rellenas con diferentes tipos de carne. Una delicia.",
     "preparation_time_min": 60,
@@ -2611,6 +2707,7 @@
   },
   {
     "id": 8,
+    "uid": "sopa-8",
     "title": "Caldo de albóndigas y queso",
     "description": "Delicioso caldo a base de albondigas, queso, vegetales y verduras. Toda una exquisitez.",
     "preparation_time_min": 60,
@@ -2644,6 +2741,7 @@
   },
   {
     "id": 9,
+    "uid": "sopa-9",
     "title": "Caldo de Bagre",
     "description": "El bagre es una especie de pez que se conoce en Ecuador como pez camchimala y comúnmente en todo el mundo como pez gato, debido a los bigotes que posee. Esta sopa se prepara con bagre, yuca, cilantro, tomate, aceite, comino, ajo y sal.",
     "preparation_time_min": 120,
@@ -2672,6 +2770,7 @@
   },
   {
     "id": 10,
+    "uid": "sopa-10",
     "title": "Caldo de Bolas de Verde",
     "description": "El caldo de bolas de verde es una sopa típica de la costa ecuatoriana que consiste de bolas o albóndigas de plátano verde rellenas con carne en un delicioso caldo con choclo y yuca. El caldo de bolas de verde también se puede encontrar en algunos restaurantes de la Sierra.",
     "preparation_time_min": 120,
@@ -2721,6 +2820,7 @@
   },
   {
     "id": 11,
+    "uid": "sopa-11",
     "title": "Caldo de costillas de res",
     "description": "El caldo de costilla de res es muy consumido en la sierra y en la costa ecuatoriana, también se lo conoce como levanta muertos.",
     "preparation_time_min": 120,
@@ -2750,6 +2850,7 @@
   },
   {
     "id": 12,
+    "uid": "sopa-12",
     "title": "Caldo de gallina criolla",
     "description": "El caldo de gallina criolla es una deliciosa receta que se puede degustar en cualquier momento, además de ser una comida típica y fácil de preparar.",
     "preparation_time_min": 120,
@@ -2777,6 +2878,7 @@
   },
   {
     "id": 13,
+    "uid": "sopa-13",
     "title": "Caldo de manguera",
     "description": "El Caldo de Manguera es un plato guayaquileño con mucha tradición. Se prepara con la tripa del cerdo.",
     "preparation_time_min": 120,
@@ -2819,6 +2921,7 @@
   },
   {
     "id": 14,
+    "uid": "sopa-14",
     "title": "Caldo de mondongo",
     "description": "El caldo de mondongo es un plato típico en la gastronomía ecuatoriana, es muy rico con mucho sabor, que se elabora bajo un proceso un poco laborioso pero que sin duda resultará en un plato suculento. Anímate a probarla.",
     "preparation_time_min": 120,
@@ -2847,6 +2950,7 @@
   },
   {
     "id": 15,
+    "uid": "sopa-15",
     "title": "Caldo de Pata",
     "description": "Ecuador es un país con una gran diversidad de sopas dentro de su inventario gastronómico y uno de sus platos representativos es sin duda el caldo de pata, una deliciosa mezcla de texturas y sabores acompañados del tradicional mote.",
     "preparation_time_min": 120,
@@ -2886,6 +2990,7 @@
   },
   {
     "id": 16,
+    "uid": "sopa-16",
     "title": "Caldo de patas",
     "description": "El caldo de patas de res, es una sopa tradicional y muy típica en varios países latinoamericanos. Se sirve caliente y es muy rica, ya que encuentras lo gelatinoso de la carne con el sabor de las hierbas aromáticas. Puede acompañarse con mote, arroz u otro vegetal que te apetezca.",
     "preparation_time_min": 120,
@@ -2918,6 +3023,7 @@
   },
   {
     "id": 17,
+    "uid": "sopa-17",
     "title": "Caldo de salchichas",
     "description": "El famoso caldo de salchicha ecuatoriano, también conocido como caldo de manguera, es una de las sopas más populares que se prepara con salchichas elaboradas como una morcilla de menudencias de cerdo y con relleno de plátanos verdes. No pierdas la oportunidad de disfrutar este plato típico.",
     "preparation_time_min": 120,
@@ -2951,6 +3057,7 @@
   },
   {
     "id": 18,
+    "uid": "sopa-18",
     "title": "Caldo de torreja de carne",
     "description": "Rica sopa de torreja de carne y un toque de leche. Se sirve con cilantro picadito por encima.",
     "preparation_time_min": 60,
@@ -2985,6 +3092,7 @@
   },
   {
     "id": 19,
+    "uid": "sopa-19",
     "title": "Cauca de choclo tierno",
     "description": "Cauca es una palabra que en la provincia de Tungurahua significa un alimento hecho de maíz morocho blanco y que puede ser de sal o de dulce.",
     "preparation_time_min": 60,
@@ -3015,6 +3123,7 @@
   },
   {
     "id": 20,
+    "uid": "sopa-20",
     "title": "Chamorro",
     "description": "El caldo de res es una sopa muy nutritiva con la combinación exquisita de la carne, el choclo y los demás ingredientes.",
     "preparation_time_min": 60,
@@ -3043,6 +3152,7 @@
   },
   {
     "id": 21,
+    "uid": "sopa-21",
     "title": "Chupé de camarones",
     "description": "El chupé de camarones es muy popular en la cocina ecuatoriana y se lo puede encontrar en las playas de las provincias de Manabi y Esmeraldas principalmente.",
     "preparation_time_min": 60,
@@ -3075,6 +3185,7 @@
   },
   {
     "id": 22,
+    "uid": "sopa-22",
     "title": "Chupé de pescado",
     "description": "El chupé de pescado ecuatoriano es un locro espeso al que lo acompañan pescado frito o mariscos. Es uno de los platos típicos de la costa ecuatoriana, se lo sirve caliente, especialmente durante el almuerzo.",
     "preparation_time_min": 120,
@@ -3112,6 +3223,7 @@
   },
   {
     "id": 23,
+    "uid": "sopa-23",
     "title": "Chupe de pescado ecuatoriano",
     "description": "El chupe consiste en un locro espeso que puede hacerse con carne de pollo, pescado, mariscos o carnes rojas. Es un clásico de la costa del país.",
     "preparation_time_min": 120,
@@ -3146,6 +3258,7 @@
   },
   {
     "id": 24,
+    "uid": "sopa-24",
     "title": "Crema de acelgas",
     "description": "Deliciosa sopa a base de acelgas acompañada con queso y mantequilla. Toda una delicia.",
     "preparation_time_min": 120,
@@ -3170,6 +3283,7 @@
   },
   {
     "id": 25,
+    "uid": "sopa-25",
     "title": "Crema de brócoli",
     "description": "La sopa de brócoli es muy deliciosa y sobretodo nutritiva, con la combinación del queso hará que todos la quieran comer.",
     "preparation_time_min": 30,
@@ -3198,6 +3312,7 @@
   },
   {
     "id": 26,
+    "uid": "sopa-26",
     "title": "Crema de zanahoria",
     "description": "Exquisita sopa o crema de zanahorias con verduras. Se puede acompañar con cilantro picadito.",
     "preparation_time_min": 60,
@@ -3222,6 +3337,7 @@
   },
   {
     "id": 27,
+    "uid": "sopa-27",
     "title": "Crema de Zapallo",
     "description": "El zapallo, también conocido como auyama, es consumido en toda Latinoamérica, especialmente en la región andina de Ecuador. Esta receta de crema de zapallo es fácil de preparar y es ideal para los días lluviosos.",
     "preparation_time_min": 120,
@@ -3247,6 +3363,7 @@
   },
   {
     "id": 28,
+    "uid": "sopa-28",
     "title": "Encebollado",
     "description": "Delicioso Encebollado a base de cebollas y vegetales. Se puede acompañar con chifles o tostados.",
     "preparation_time_min": 60,
@@ -3281,6 +3398,7 @@
   },
   {
     "id": 29,
+    "uid": "sopa-29",
     "title": "Encebollado de pescado",
     "description": "El encebollado de pescado es un plato típico de la gastronomía ecuatoriana que se elabora con albacora o atún fresco, yuca, vegetales y hierbas. Se suele acompañar con curtido de cebollas, ají o salsa picante. Anímate a prepararlo y disfrutarás de un plato con mucho sabor.",
     "preparation_time_min": 120,
@@ -3308,6 +3426,7 @@
   },
   {
     "id": 30,
+    "uid": "sopa-30",
     "title": "Encebollado Manaba",
     "description": "El encebollado es un plato original de la provincia de Guayas, al suroeste de Ecuador, así como de Manabí, de ahí el nombre de encebollado manabita o manaba. El caldo que acompaña al pescado se elabora a base de yuca licuada y se puede condimentar con ají en polvo, comino u otras especias al gusto.",
     "preparation_time_min": 60,
@@ -3338,6 +3457,7 @@
   },
   {
     "id": 31,
+    "uid": "sopa-31",
     "title": "Encebollado manabita",
     "description": "Este plato es originario del sur del Ecuador, en la región de Manabí, de donde proviene su nombre, es un caldo que se prepara en base a pescado y yuca.",
     "preparation_time_min": 120,
@@ -3365,6 +3485,7 @@
   },
   {
     "id": 32,
+    "uid": "sopa-32",
     "title": "Fanesca",
     "description": "Este plato es popular en Ecuador en época de pascuas, las familias reciben a sus familiares en semana santa con una gastronomía típica de esa celebración. Deliciosa y alta en calorías.",
     "preparation_time_min": 120,
@@ -3400,6 +3521,7 @@
   },
   {
     "id": 33,
+    "uid": "sopa-33",
     "title": "Fanesca Ecuatoriana",
     "description": "La fanesca es un plato popular en Ecuador conocido por ser preparado durante la época de Semana Santa. Es una sopa a base de granos tiernos y pescado seco y suele servirse caliente con trozos de bacalao, plátano maduro frito, ají rojo, hojas de perejil, queso y rodajas de huevos cocidos.",
     "preparation_time_min": 120,
@@ -3447,6 +3569,7 @@
   },
   {
     "id": 34,
+    "uid": "sopa-34",
     "title": "Guiso chamorro",
     "description": "El guiso chamorro es un potaje muy nutritivo realizado en todo Ecuador con carne vacuna, legumbres y verduras. Ideal para los días mas fríos del año por su valor calorico.",
     "preparation_time_min": 120,
@@ -3472,6 +3595,7 @@
   },
   {
     "id": 35,
+    "uid": "sopa-35",
     "title": "Locro de Acelga",
     "description": "El locro de acelga es una sopa muy tradicional en los hogares ecuatorianos. Es recomendada para las personas que tienen baja cantidad de hierro en el organismo, ya que la acelga proporciona un alto contenido del mismo.",
     "preparation_time_min": 120,
@@ -3500,6 +3624,7 @@
   },
   {
     "id": 36,
+    "uid": "sopa-36",
     "title": "Locro de choclo",
     "description": "Rica sopa de choclos con vegetales y leche. Se puede servir con ruedas de aguacate y cilantro picadito.",
     "preparation_time_min": 60,
@@ -3529,6 +3654,7 @@
   },
   {
     "id": 37,
+    "uid": "sopa-37",
     "title": "Locro de Habas",
     "description": "El locro es una sopa espesa, muy parecido a un guiso, muy popular en Sudamérica. En Ecuador, se prepara diferentes variaciones del locro de papas. En esta receta, la preparación es con habas, las cuales son muy populares en la Sierra ecuatoriana.",
     "preparation_time_min": 120,
@@ -3565,6 +3691,7 @@
   },
   {
     "id": 38,
+    "uid": "sopa-38",
     "title": "Locro de nabo",
     "description": "Rico y nutritivo locro de nabo y vegetales. Tradicional de Ecuador. Se sirve con un poco de oregano molido.",
     "preparation_time_min": 60,
@@ -3596,6 +3723,7 @@
   },
   {
     "id": 39,
+    "uid": "sopa-39",
     "title": "Locro de zapallo",
     "description": "El locro de zapallo es una sopa muy espesa, la cual se puede combinar con papa y queso, es muy delicioso y se puede degustar en familia.",
     "preparation_time_min": 120,
@@ -3625,6 +3753,7 @@
   },
   {
     "id": 40,
+    "uid": "sopa-40",
     "title": "Locro Ecuatoriano",
     "description": "El locro es un plato clásico de Ecuador que consiste en una sopa cremosa hecha a base de papas y queso. Es típico de la Sierra ecuatoriana y especialmente popular en el norte del país y Quito, donde también se conoce como locro quiteño.",
     "preparation_time_min": 60,
@@ -3653,6 +3782,7 @@
   },
   {
     "id": 41,
+    "uid": "sopa-41",
     "title": "Menestrón",
     "description": "El menestrón es una sopa deliciosa con muchos nutrientes, con la espectacular combinación del fideo y la carne hace que todos se quieran repetir.",
     "preparation_time_min": 120,
@@ -3682,6 +3812,7 @@
   },
   {
     "id": 42,
+    "uid": "sopa-42",
     "title": "Menestron de chancho",
     "description": "Deliciosos menestron a base de carne de cerdo. Se sirve con un toque de Albahaca y queso.",
     "preparation_time_min": 60,
@@ -3710,6 +3841,7 @@
   },
   {
     "id": 43,
+    "uid": "sopa-43",
     "title": "Mote Pata",
     "description": "El mote pata es un delicioso platillo que se sirve caliente para degustar con la familia.",
     "preparation_time_min": 120,
@@ -3740,6 +3872,7 @@
   },
   {
     "id": 44,
+    "uid": "sopa-44",
     "title": "Polla ronca",
     "description": "La sopa de harina de cebada contiene muchos nutrientes con un delicioso sabor que se debe servir muy caliente.",
     "preparation_time_min": 60,
@@ -3765,6 +3898,7 @@
   },
   {
     "id": 45,
+    "uid": "sopa-45",
     "title": "Raspado de verde",
     "description": "El raspado de verde es una sopa ecuatoriana que se consume tradicionalmente en la costa, principalmente en las provincias de Manabi y Los Ríos",
     "preparation_time_min": 60,
@@ -3792,6 +3926,7 @@
   },
   {
     "id": 46,
+    "uid": "sopa-46",
     "title": "Raspado de verdes",
     "description": "El raspado de verdes es una sopa tradicional de Ecuador, consumida masivamente en toda la region costeña especialmente en Manabi.",
     "preparation_time_min": 60,
@@ -3819,6 +3954,7 @@
   },
   {
     "id": 47,
+    "uid": "sopa-47",
     "title": "Repe de loja",
     "description": "El repe lojano es una sopa hecha a base de plátanos, queso lojano(de ahí su nombre) y leche. \nEs la sopa mas tradicional de la región de Loja.",
     "preparation_time_min": 120,
@@ -3844,6 +3980,7 @@
   },
   {
     "id": 48,
+    "uid": "sopa-48",
     "title": "Repe Lojano",
     "description": "El repe es la sopa más popular de Loja, ubicada al sur de Ecuador. Con una base de verde, leche, quesillo lojano y culantro, el repe lojano ha caracterizado la gastronomía de la región.",
     "preparation_time_min": 120,
@@ -3869,6 +4006,7 @@
   },
   {
     "id": 49,
+    "uid": "sopa-49",
     "title": "Salsa de chocho",
     "description": "El chocho es una legumbre ecuatoriana que se ha hecho famosa por sus beneficios nutritivos, esta receta de salsa de chochos es ideal para acompañar carnes blancas.",
     "preparation_time_min": 30,
@@ -3895,6 +4033,7 @@
   },
   {
     "id": 50,
+    "uid": "sopa-50",
     "title": "Sancocho",
     "description": "El sancocho se ha vuelto un plato nacional, como sopa, plato fuerte que acompaña, sobre todo el almuerzo.",
     "preparation_time_min": 120,
@@ -3924,6 +4063,7 @@
   },
   {
     "id": 51,
+    "uid": "sopa-51",
     "title": "Sancocho de pescado",
     "description": "Rica sopa de pescado con vegetales y verduras. Se puede servir con cilantro picadito.",
     "preparation_time_min": 60,
@@ -3954,6 +4094,7 @@
   },
   {
     "id": 52,
+    "uid": "sopa-52",
     "title": "Sopa canoera de camarón",
     "description": "Te encantará esta sopa marina de camarones. Ecuador tiene diversidad de sabores gracias a sus múltiples estaciones. Entre todos ellos, el sabor del mar es de sus encantos más atesorados.",
     "preparation_time_min": 120,
@@ -3986,6 +4127,7 @@
   },
   {
     "id": 53,
+    "uid": "sopa-53",
     "title": "Sopa cremosa costa y sierra",
     "description": "Deliciosa sopa, de las mejores que se puede probar en Ecuador. Tienen por mucho, su toque gourmet, innovada de las mejor cocinas de la costa meridional.",
     "preparation_time_min": 120,
@@ -4025,6 +4167,7 @@
   },
   {
     "id": 54,
+    "uid": "sopa-54",
     "title": "Sopa de aguacate",
     "description": "La deliciosa sopa de aguacate es una receta tradicional de la cocina lojana, puede disfrutarse ligeramente tibia o preferiblemente fría. Se elabora con frutos en su punto ideal de maduración y un buen y delicado. No dudes en disfrutarla.",
     "preparation_time_min": 120,
@@ -4050,6 +4193,7 @@
   },
   {
     "id": 55,
+    "uid": "sopa-55",
     "title": "Sopa de Arvejas con Guineo",
     "description": "Esta deliciosa sopa, también conocida con mucho cariño como arvejitas con guineo, es típica de la provincia de Loja, en el sur del Ecuador. La sopa de arvejas con guineo se sirve acompañada de aguacate y ají.",
     "preparation_time_min": 120,
@@ -4079,6 +4223,7 @@
   },
   {
     "id": 56,
+    "uid": "sopa-56",
     "title": "Sopa de atún",
     "description": "Deliciosa sopa de atún con fideos, verduras y vegetales. Podemos servir con cilantro picadito.",
     "preparation_time_min": 60,
@@ -4109,6 +4254,7 @@
   },
   {
     "id": 57,
+    "uid": "sopa-57",
     "title": "Sopa de avena",
     "description": "La sopa de avena es un caldo que se prepara basándonos en hojuelas de avena y verduras. Es un caldo delicioso y muy saludable. Su elaboración es bastante sencilla por lo que no puedes perderte esta receta para disfrutar de un plato completo , tradicional y con grandes beneficios nutricionales.",
     "preparation_time_min": 60,
@@ -4139,6 +4285,7 @@
   },
   {
     "id": 58,
+    "uid": "sopa-58",
     "title": "Sopa de bolas de maíz",
     "description": "Es una sopa andina, hecha a base de caldo de res o de chivo (según el lugar) y bolas de harina de maíz también conocidas como Lluspas",
     "preparation_time_min": 60,
@@ -4166,6 +4313,7 @@
   },
   {
     "id": 59,
+    "uid": "sopa-59",
     "title": "Sopa de bolitas de huevo",
     "description": "La sopa de bolitas de huevo es una mezcla de huevo y harina con un sabor exquisito para degustarlo caliente.",
     "preparation_time_min": 60,
@@ -4195,6 +4343,7 @@
   },
   {
     "id": 60,
+    "uid": "sopa-60",
     "title": "Sopa de brócoli y papa",
     "description": "Exquisita Sopa a base de brócoli y papa. Se puede servir con queso rayado y trocitos de brócoli.",
     "preparation_time_min": 120,
@@ -4218,6 +4367,7 @@
   },
   {
     "id": 61,
+    "uid": "sopa-61",
     "title": "Sopa de camarón",
     "description": "La sopa de camarón acompañada del fideos es un plato típico y muy delicioso que degustan generalmente en zonas costeras.",
     "preparation_time_min": 60,
@@ -4247,6 +4397,7 @@
   },
   {
     "id": 62,
+    "uid": "sopa-62",
     "title": "Sopa de cangrejos",
     "description": "El caldo de cangrejos es una sopa deliciosa que se consume generalmente en familia. Su preparación es muy sencilla y hará que todos quieran repetirse.",
     "preparation_time_min": 60,
@@ -4273,6 +4424,7 @@
   },
   {
     "id": 63,
+    "uid": "sopa-63",
     "title": "Sopa de chifles",
     "description": "La sopa de chifles es muy nutritiva con un delicioso sabor.",
     "preparation_time_min": 60,
@@ -4302,6 +4454,7 @@
   },
   {
     "id": 64,
+    "uid": "sopa-64",
     "title": "Sopa de coliflor",
     "description": "La deliciosa sopa de coliflor es un plato que puede servirse tanto fría como caliente. Puede consumirse en la cena si desea una opción ligera pero llena de sabor. Acompáñela con canguil, chifles o queso.",
     "preparation_time_min": 120,
@@ -4330,6 +4483,7 @@
   },
   {
     "id": 65,
+    "uid": "sopa-65",
     "title": "Sopa de fideo con queso",
     "description": "La sopa de fideos con queso y papas es una deliciosa sopa casera que le encanta a chicos y grandes los niños pequeños y muy fácil de preparar.",
     "preparation_time_min": 30,
@@ -4357,6 +4511,7 @@
   },
   {
     "id": 66,
+    "uid": "sopa-66",
     "title": "Sopa de habichuelas",
     "description": "La sopa de habichuela es una deliciosa receta muy fácil de preparar y con muchos nutrientes.",
     "preparation_time_min": 120,
@@ -4384,6 +4539,7 @@
   },
   {
     "id": 67,
+    "uid": "sopa-67",
     "title": "Sopa de lentejas",
     "description": "La deliciosa sopa de lentejas es un plato muy nutritivo y fácil de elaborar. Aunque es tan popular, en esta receta le daremos el toque ecuatoriano, por lo que te invitamos a disfrutarla será del agrado de todos.",
     "preparation_time_min": 120,
@@ -4413,6 +4569,7 @@
   },
   {
     "id": 68,
+    "uid": "sopa-68",
     "title": "Sopa de lentejas con queso",
     "description": "La sopa de lenteja contiene muchos nutrientes además de tener un exquisito sabor.",
     "preparation_time_min": 60,
@@ -4438,6 +4595,7 @@
   },
   {
     "id": 69,
+    "uid": "sopa-69",
     "title": "Sopa de maíz morocho",
     "description": "Esta sopa, de alto valor nutritivo se reserva para los días mas fríos del año y la base esta comida es el maíz de tipo morocho.",
     "preparation_time_min": 60,
@@ -4465,6 +4623,7 @@
   },
   {
     "id": 70,
+    "uid": "sopa-70",
     "title": "Sopa de morochillo con carne",
     "description": "Le traemos en esta ocasión una deliciosa receta de la sopa de morocho con carne de cerdo. Este plato es muy popular en la cocina ecuatoriana, es de fácil preparación y lleno de muchos sabores. Disfrútelo.",
     "preparation_time_min": 120,
@@ -4491,6 +4650,7 @@
   },
   {
     "id": 71,
+    "uid": "sopa-71",
     "title": "Sopa de morocho",
     "description": "Es una sopa de maíz de tipo morocho, elaborada con coles, papas y, a veces, carne. Según la contundencia del plato puede tratarse como plato fuerte.",
     "preparation_time_min": 60,
@@ -4517,6 +4677,7 @@
   },
   {
     "id": 72,
+    "uid": "sopa-72",
     "title": "Sopa de morocho de sal",
     "description": "La sopa de morocho de sal, es una de las recetas más tradicionales de Ecuador. Es una sopa cremosa y con un sabor exquisito que se puede disfrutar a cualquier ocasión. No pierdas la oportunidad de disfrutar de tan exquisito plato.",
     "preparation_time_min": 120,
@@ -4545,6 +4706,7 @@
   },
   {
     "id": 73,
+    "uid": "sopa-73",
     "title": "Sopa de nabos",
     "description": "Esta sopa es sumamente rica, es una sopa hecha con vegetales que le aportan un alto valor nutritivo. No dude en prepararla ya que tiene un sabor exquisito. Anímate a probarla.",
     "preparation_time_min": 120,
@@ -4573,6 +4735,7 @@
   },
   {
     "id": 74,
+    "uid": "sopa-74",
     "title": "Sopa de patacón ecuatoriana",
     "description": "Deliciosa sopa de patacón al estilo Ecuatoriano. Se acompaña con arroz blanco y aguacate.",
     "preparation_time_min": 60,
@@ -4604,6 +4767,7 @@
   },
   {
     "id": 75,
+    "uid": "sopa-75",
     "title": "Sopa de queso",
     "description": "Rica sopa de queso acompañada con vegetales y huevos. Se sirve con cilantro picadito.",
     "preparation_time_min": 60,
@@ -4635,6 +4799,7 @@
   },
   {
     "id": 76,
+    "uid": "sopa-76",
     "title": "Sopa de Quinua con Carne de Cerdo",
     "description": "La quinua es uno de los alimentos típico y autóctonos de la cordillera andina de Ecuador. Tradicionalmente, la sopa de quinua se prepara con leche y queso. En esta ocasión, la receta contiene carne de cerdo, maní tostado, papas y cebolla.",
     "preparation_time_min": 120,
@@ -4664,6 +4829,7 @@
   },
   {
     "id": 77,
+    "uid": "sopa-77",
     "title": "Sopa de tomate",
     "description": "La sopa de tomate es una crema a base de tomates maduros y es muy consumida en el territorio ecuatoriano.",
     "preparation_time_min": 60,
@@ -4696,6 +4862,7 @@
   },
   {
     "id": 78,
+    "uid": "sopa-78",
     "title": "Sopa de verduras con hueso de res",
     "description": "La sopa de verduras con hueso de res es una sopa deliciosa y fácil de preparar que puede degustarse en cualquier momento.",
     "preparation_time_min": 60,
@@ -4727,6 +4894,7 @@
   },
   {
     "id": 79,
+    "uid": "sopa-79",
     "title": "Sopa Frita",
     "description": "En Ecuador se consume comúnmente la sopa frita especialmente en la región Andina, hay diferentes variantes de este tipo de sopa.",
     "preparation_time_min": 60,
@@ -4759,6 +4927,7 @@
   },
   {
     "id": 80,
+    "uid": "sopa-80",
     "title": "Sopa frita ecuatoriana",
     "description": "La sopa frita tiene muchas variantes, en el Ecuador se consume masivamente en la región andina ecuatoriana.",
     "preparation_time_min": 60,
@@ -4787,6 +4956,7 @@
   },
   {
     "id": 81,
+    "uid": "sopa-81",
     "title": "Sopa Juliana",
     "description": "La sopa Juliana se compone de una gran variedad de vegetales que hacen que está sopa sea muy saludable",
     "preparation_time_min": 60,
@@ -4813,6 +4983,7 @@
   },
   {
     "id": 82,
+    "uid": "sopa-82",
     "title": "Sopa locro de papa",
     "description": "Deliciosa sopa de papas decorada con queso. Acompañada con tajadas de aguacate y aji.",
     "preparation_time_min": 60,
@@ -4841,6 +5012,7 @@
   },
   {
     "id": 83,
+    "uid": "sopa-83",
     "title": "Sopa marinera",
     "description": "La sopa marinera es una receta típica y tradicional de la gastronomía ecuatoriana hecha a base de mariscos.",
     "preparation_time_min": 120,
@@ -4873,6 +5045,7 @@
   },
   {
     "id": 84,
+    "uid": "sopa-84",
     "title": "Sopa sancocho",
     "description": "La sopa sancocho es un plato que se utiliza como acompañamiento en los almuerzos ecuatorianos volviéndose un clásico nacional.",
     "preparation_time_min": 120,
@@ -4899,6 +5072,7 @@
   },
   {
     "id": 85,
+    "uid": "sopa-85",
     "title": "Timbushca",
     "description": "Es una sopa tradicional de la Sierra Ecuatoriana que se elabora como un locro a base de maní, leche, col, papas y costillas de res. Es un plato delicioso que puedes disfrutar en días fríos en compañía de la familia.",
     "preparation_time_min": 120,
@@ -4928,6 +5102,7 @@
   },
   {
     "id": 86,
+    "uid": "sopa-86",
     "title": "Yahuarlocro",
     "description": "El yahuarlocro es una de las preparaciones más famosas de Ecuador y su nombre nace de las palabras Yahuar (sangre) y locro (sopa o caldo). Este plato es preparado a nivel nacional, aunque es más popular en Guayabamba, ciudad cercana a la capital ecuatoriana.",
     "preparation_time_min": 120,
@@ -4964,6 +5139,7 @@
   },
   {
     "id": 1,
+    "uid": "plato-principal-1",
     "title": "Arroz con atún",
     "description": "El arroz es una de las principales bases de la alimentación de los ecuatorianos y acompañarlo con atún es una costumbre que tienen los habitantes principalmente de la costa y este plato es considerado una delicia",
     "preparation_time_min": 60,
@@ -4989,6 +5165,7 @@
   },
   {
     "id": 2,
+    "uid": "plato-principal-2",
     "title": "Arroz con Camarones",
     "description": "El arroz es muy popular entre los ecuatorianos y existe gran variedad de recetas con arroz, en especial los que contienen mariscos. Esta receta de arroz con camarones, plato típico de la costa de Ecuador, es exquisita y muy fácil de preparar.",
     "preparation_time_min": 120,
@@ -5023,6 +5200,7 @@
   },
   {
     "id": 3,
+    "uid": "plato-principal-3",
     "title": "Arroz con concha",
     "description": "Este delicioso plato es ideal para disfrutarlo en el almuerzo junto a la familia. En la gastronomía ecuatoriana es muy apetecido, por lo que aquí te invitamos a que aprendas a prepararlo. Que lo disfrute.",
     "preparation_time_min": 120,
@@ -5051,6 +5229,7 @@
   },
   {
     "id": 4,
+    "uid": "plato-principal-4",
     "title": "Arroz con pollo a la ecuatoriana",
     "description": "La receta de arroz y pollo ecuatoriana se acompaña con plátano frito. Es un plato simple y muy nutritivo.",
     "preparation_time_min": 120,
@@ -5084,6 +5263,7 @@
   },
   {
     "id": 5,
+    "uid": "plato-principal-5",
     "title": "Arroz con Pollo Ecuatoriano",
     "description": "El arroz con pollo es un plato lleno de sabores caseros y que se prepara de distintas formas y con distintos ingredientes según el país donde se realice. La receta ecuatoriana utiliza verduras, pechuga de pollo y el arroz se cocina con el caldo del pollo y suele acompañarse con plátano maduro frito. El arroz con pollo ecuatoriano es un plato delicioso y fácil de preparar.",
     "preparation_time_min": 120,
@@ -5119,6 +5299,7 @@
   },
   {
     "id": 6,
+    "uid": "plato-principal-6",
     "title": "Arroz marinero",
     "description": "El arroz marinero es uno de los preferidos por su variedad en ingredientes. Puede acompañarse con maduros.",
     "preparation_time_min": 120,
@@ -5158,6 +5339,7 @@
   },
   {
     "id": 7,
+    "uid": "plato-principal-7",
     "title": "Arroz mixto de camarones",
     "description": "Suculento arroz mixto de cerdo, pollo, camarones. Acompañado de un gran sabor ecuatoriano y de vegetales variados. Puede agregarse también pescado o calamar.",
     "preparation_time_min": 120,
@@ -5192,6 +5374,7 @@
   },
   {
     "id": 8,
+    "uid": "plato-principal-8",
     "title": "Bacalao frito",
     "description": "El bacalao frito es una receta deliciosa y bastante saludable. Este pescado tiene un excelente sabor y es del agrado de todos. Hay muchas maneras de disfrutarlo, por lo que acá te mostraremos una forma sencilla de prepararlo.",
     "preparation_time_min": 60,
@@ -5220,6 +5403,7 @@
   },
   {
     "id": 9,
+    "uid": "plato-principal-9",
     "title": "Bistec de carne al horno",
     "description": "El bistec de carne al horno es una receta muy fácil y rápida de preparar que tiene ingredientes muy fáciles de conseguir como la carne y algunas verduras.",
     "preparation_time_min": 60,
@@ -5251,6 +5435,7 @@
   },
   {
     "id": 10,
+    "uid": "plato-principal-10",
     "title": "Bistec de res ecuatoriano",
     "description": "El bistec de res cocido al estilo ecuatoriano, es un plato popular que se consume generalmente durante el almuerzo o una cena. Tiene gran sabor y proporciona una excelente opción para preparar a la familia.",
     "preparation_time_min": 120,
@@ -5281,6 +5466,7 @@
   },
   {
     "id": 11,
+    "uid": "plato-principal-11",
     "title": "Bollo de pescado",
     "description": "El bollo de pescado es un platillo típico tradicional de la costa ecuatoriana, pero que es consumido en todo el país. Su ingrediente principal es el plátano verde y el condumio de pescado.",
     "preparation_time_min": 120,
@@ -5322,6 +5508,7 @@
   },
   {
     "id": 12,
+    "uid": "plato-principal-12",
     "title": "Bollos de pescado",
     "description": "El bollo de pescado es uno de los platos principales característicos de la costa ecuatoriana, entre sus ingredientes estrella se encuentra el plátano verde.",
     "preparation_time_min": 120,
@@ -5354,6 +5541,7 @@
   },
   {
     "id": 13,
+    "uid": "plato-principal-13",
     "title": "Camarones o langostinos al ajillo",
     "description": "El sabor del ajo puro combinado con condimentos naturales resaltan el sabor de los camarones o langostinos haciendo de éste un popular plato en la costa ecuatoriana.",
     "preparation_time_min": 60,
@@ -5381,6 +5569,7 @@
   },
   {
     "id": 14,
+    "uid": "plato-principal-14",
     "title": "Camarones reventados",
     "description": "Los deliciosos camarones reventados, es un plato delicioso y tradicional en la cultura ecuatoriana. Los camarones con esa textura suave pero envueltos en una corteza crujiente, llenarán de ricos sabores su paladar. Anímate a preparar esta sencilla receta.",
     "preparation_time_min": 60,
@@ -5405,6 +5594,7 @@
   },
   {
     "id": 15,
+    "uid": "plato-principal-15",
     "title": "Cangrejada",
     "description": "La famosa cangrejada ecuatoriana se prepara con los pangora, jaibas, azules y rojos, algunas de las diversas especies de cangrejos que se crían en la zona costera de Ecuador. La cangrejada suele servirse acompañada de una ensalada que se prepara con cebolla, canguil y chifles.",
     "preparation_time_min": 60,
@@ -5433,6 +5623,7 @@
   },
   {
     "id": 16,
+    "uid": "plato-principal-16",
     "title": "Cangrejadas",
     "description": "La clásica cangrejada ecuatoriana es un plato imperdible de la marisqueria de Ecuador que se prepara con pangoras y jaibas, especies autóctonas de la zona costera del país .",
     "preparation_time_min": 120,
@@ -5461,6 +5652,7 @@
   },
   {
     "id": 17,
+    "uid": "plato-principal-17",
     "title": "Carapachos de cangrejo",
     "description": "Los carapachos de cangrejo rellenos son un plato tradicional de la marisquería ecuatoriana, para realizarlos se utilizan las caparazones de los cangrejos que se recolectan de las costas del país.",
     "preparation_time_min": 120,
@@ -5484,6 +5676,7 @@
   },
   {
     "id": 18,
+    "uid": "plato-principal-18",
     "title": "Carapachos de cangrejo rellenos",
     "description": "Para la preparación de los carapachos de cangrejo rellenos se utilizan las caparazones de los cangrejos, crustáceos que abundan en las costas ecuatorianas",
     "preparation_time_min": 60,
@@ -5507,6 +5700,7 @@
   },
   {
     "id": 19,
+    "uid": "plato-principal-19",
     "title": "Carne Colorada",
     "description": "La carne colorada es típico de las provincias de Carchi e Imbabura en el norte del Ecuador. La carne colorada es un plato de carne de res (o de cerdo) marinada en un adobo de achiote.",
     "preparation_time_min": 60,
@@ -5535,6 +5729,7 @@
   },
   {
     "id": 20,
+    "uid": "plato-principal-20",
     "title": "Carne colorada ecuatoriana",
     "description": "Rica carne colorada al estilo Ecuatoriano. Preparada como un guiso. Se acompaña con arroz, maduro y aguacate.",
     "preparation_time_min": 120,
@@ -5562,6 +5757,7 @@
   },
   {
     "id": 21,
+    "uid": "plato-principal-21",
     "title": "Cauca de choclo",
     "description": "La Cauca es un potaje estofado hecho en base a maíz morocho y carne, el origen proviene de la provincia de Tungurahua.",
     "preparation_time_min": 60,
@@ -5590,6 +5786,7 @@
   },
   {
     "id": 22,
+    "uid": "plato-principal-22",
     "title": "Cazuela de pescado",
     "description": "La cazuela de pescado es un plato típico de la costa ecuatoriana también se la puede hacer de otros mariscos y siempre lleva plátano que es el ingrediente universal de la cocina ecuatoriana",
     "preparation_time_min": 60,
@@ -5623,6 +5820,7 @@
   },
   {
     "id": 23,
+    "uid": "plato-principal-23",
     "title": "Cecina lojana",
     "description": "La cecina es un plato distintivo de la Provincia de la Loja. Es muy apetecido y de acuerdo a la tradición, se prepara a base de carne de cerdo fileteada adobada y que se cocina sobre el ahumado de leña.",
     "preparation_time_min": 120,
@@ -5646,6 +5844,7 @@
   },
   {
     "id": 24,
+    "uid": "plato-principal-24",
     "title": "Cerdo en salsa de tamarindo",
     "description": "El tamarindo es cultivado en la provincia de Manabi, pero en todo el país es consumido ya sea en jugos o para darle un realce de sabor a los platos fuertes como el cerdo en salsa de tamarindo.",
     "preparation_time_min": 60,
@@ -5674,6 +5873,7 @@
   },
   {
     "id": 25,
+    "uid": "plato-principal-25",
     "title": "Cerdo en salsa de tamarindos",
     "description": "El tamarindo es un fruto consumido en todo el país ya sea en jugos, coladas o para realzar el sabor de platos fuertes como el de esta receta que presentamos aquí.",
     "preparation_time_min": 120,
@@ -5700,6 +5900,7 @@
   },
   {
     "id": 26,
+    "uid": "plato-principal-26",
     "title": "Chanfaina",
     "description": "La chanfaina es un plato de origen español que fue introducido en el Ecuador con la conquista. Este plato está basado en vísceras picadas, que pueden ser de chancho, de borrego, de res, o de otro animal.",
     "preparation_time_min": 120,
@@ -5731,6 +5932,7 @@
   },
   {
     "id": 27,
+    "uid": "plato-principal-27",
     "title": "Chanfaina ecuatoriana",
     "description": "El verdadero origen de la chanfaina es español, pero tal fue su aceptación en todo Ecuador que este potaje se ha vuelto parte de la gastronomía del país.",
     "preparation_time_min": 120,
@@ -5759,6 +5961,7 @@
   },
   {
     "id": 28,
+    "uid": "plato-principal-28",
     "title": "Chaulafán",
     "description": "El chaulafán de pollo es la versión ecuatoriana del arroz frito chino preparado con pollo, tocino, cebolla, ajo, pimientos, arvejas, zanahorias, huevos, pasas, especias y hierbas.",
     "preparation_time_min": 120,
@@ -5812,6 +6015,7 @@
   },
   {
     "id": 29,
+    "uid": "plato-principal-29",
     "title": "Chaulafán de pollo ecuatoriano",
     "description": "Esta versión ecuatoriana del chaulafán de pollo se prepara con arroz frito y pollo, tocino, cebolla, ajo, pimientos, arvejas, zanahorias, huevos, pasas, especias y hierbas.",
     "preparation_time_min": 120,
@@ -5849,6 +6053,7 @@
   },
   {
     "id": 30,
+    "uid": "plato-principal-30",
     "title": "Chuleta con moro ecuatoriano",
     "description": "Exquisitas chuletas de cerdo acompañada con arroz sueltesito. También podemos servirlo con ensalada cesar.",
     "preparation_time_min": 120,
@@ -5882,6 +6087,7 @@
   },
   {
     "id": 31,
+    "uid": "plato-principal-31",
     "title": "Chuletas a la parrilla con acelga",
     "description": "Las deliciosas chuletas de cerdo a la parrilla con acelga es una receta saludable que puedes compartir con tu familia. Es muy rica y llena de sabor.",
     "preparation_time_min": 60,
@@ -5910,6 +6116,7 @@
   },
   {
     "id": 32,
+    "uid": "plato-principal-32",
     "title": "Chuletas de borrego al horno",
     "description": "La carne de cordero es muy apreciada debido a su porcentaje mayor de grasa que al cocinarla le aporta su inconfundible textura jugosa y sabor.",
     "preparation_time_min": 120,
@@ -5937,6 +6144,7 @@
   },
   {
     "id": 33,
+    "uid": "plato-principal-33",
     "title": "Churrasco",
     "description": "El churrasco es uno de los platos más populares en Ecuador. Consiste en una chuleta de carne de vacuno cocinada a la plancha o a la brasa. El secreto para la preparación de un buen churrasco ecuatoriano es que la carne esté bien sazonada.",
     "preparation_time_min": 120,
@@ -5957,6 +6165,7 @@
   },
   {
     "id": 34,
+    "uid": "plato-principal-34",
     "title": "Corvina en crema",
     "description": "Esta deliciosa receta de pescado en crema te exaltará los sentidos, ya que forma parte de la variedad gastronómica que nos ofrecen los pueblos de la costa ecuatoriana. Te animamos a que la prepares y te luzcas en esta ocasión.",
     "preparation_time_min": 120,
@@ -5984,6 +6193,7 @@
   },
   {
     "id": 35,
+    "uid": "plato-principal-35",
     "title": "Corvina en salsa de mariscos",
     "description": "La corvina en salsa de mariscos, es un delicioso plato muy popular de las zonas costeras de Ecuador. Esta receta es muy sencilla de preparar, además de presentar una combinación de sabores exquisitos propias de los frutos del mar.",
     "preparation_time_min": 60,
@@ -6013,6 +6223,7 @@
   },
   {
     "id": 36,
+    "uid": "plato-principal-36",
     "title": "Costillas a la bbq",
     "description": "Las costillas a la BBQ es un plato preferido por muchos en Ecuador. La salsa que cubre las costillas es sumamente una delicia. Se puede acompañar con ensalada.",
     "preparation_time_min": 60,
@@ -6038,6 +6249,7 @@
   },
   {
     "id": 37,
+    "uid": "plato-principal-37",
     "title": "Costillas de cordero con curry",
     "description": "El cordero es un borrego muy joven (una cría o un juvenil), y uno de los cortes más tiernos y deliciosos del cordero son las costillas\nque acompañadas con un curry con especias, condimentos y hierbas que más nos gustan de seguro te harán chupar los dedos.",
     "preparation_time_min": 60,
@@ -6065,6 +6277,7 @@
   },
   {
     "id": 38,
+    "uid": "plato-principal-38",
     "title": "Cuy asada con papas",
     "description": "El cuy es un roedor autóctono del Ecuador. Existen diversos platos en la gastronomía ecuatoriana que lo tienen como ingrediente principal en esta receta se encuentra asado.",
     "preparation_time_min": 120,
@@ -6094,6 +6307,7 @@
   },
   {
     "id": 39,
+    "uid": "plato-principal-39",
     "title": "Cuy Asado con Papas",
     "description": "El cuy es una especie de roedor que pesa cerca de 1 kg y que se puede encontrar en la región andina de Sudamérica, especialmente en Ecuador. Existen diversos platos en el cual el cuy es el ingrediente estrella, pero el más popular es el de cuy asado acompañado de papas.",
     "preparation_time_min": 120,
@@ -6124,6 +6338,7 @@
   },
   {
     "id": 40,
+    "uid": "plato-principal-40",
     "title": "El yahuarlocro",
     "description": "Este locro es una de las comidas más famosas de toda la gastronomía de Ecuador, significa Yahuar (sangre) y locro (sopa).",
     "preparation_time_min": 120,
@@ -6157,6 +6372,7 @@
   },
   {
     "id": 41,
+    "uid": "plato-principal-41",
     "title": "Encocada de cangrejo",
     "description": "Este es uno de los platos típicos de Ecuador, se hacen de langostinos, pescado, pollo o como en este caso, de cangrejo. Una delicia!",
     "preparation_time_min": 120,
@@ -6183,6 +6399,7 @@
   },
   {
     "id": 42,
+    "uid": "plato-principal-42",
     "title": "Encocada de pescado",
     "description": "El encocado o encocada es un plato típico de todo Ecuador, consiste en carne de res, pescado, cerdo o pollo cocido en una deliciosa salsa de coco. En esta receta la variante sera con pescado.",
     "preparation_time_min": 120,
@@ -6213,6 +6430,7 @@
   },
   {
     "id": 43,
+    "uid": "plato-principal-43",
     "title": "Encocado de cangrejo",
     "description": "El encocado es uno de los platos típicos de Ecuador, se hacen encocados de pollo, de pescado, de camarón o langostinos, de concha. Pero una de las recetas más deliciosas que se pueden hacer con encocados es el encocado de cangrejo.",
     "preparation_time_min": 120,
@@ -6239,6 +6457,7 @@
   },
   {
     "id": 44,
+    "uid": "plato-principal-44",
     "title": "Encocado de Pescado",
     "description": "El encocado de pescado es un plato típico de la costa ecuatoriana que consiste de pescado corvina cocinado en una deliciosa salsa de coco. Existen otras variaciones del encocado con camarones, conchas, cangrejo, calamar u otros mariscos.",
     "preparation_time_min": 120,
@@ -6269,6 +6488,7 @@
   },
   {
     "id": 45,
+    "uid": "plato-principal-45",
     "title": "Ensumacao",
     "description": "El Ensumacao es un delicioso caldo de mariscos con leche de coco y maní, muy típico de la provincia de Esmeraldas. Sus orígenes vienen de la cultura afrodescendiente. Se elabora a base de diversos frutos del mar y aromatizados con la chillangua, una hierba oriunda de esta región.",
     "preparation_time_min": 120,
@@ -6305,6 +6525,7 @@
   },
   {
     "id": 46,
+    "uid": "plato-principal-46",
     "title": "Estofado de corvina",
     "description": "El estofado de pescado es un almuerzo tradicional del pueblo ecuatoriano, puede realizarse con variedades de pescados en este caso se usara corvina de mar.",
     "preparation_time_min": 120,
@@ -6331,6 +6552,7 @@
   },
   {
     "id": 47,
+    "uid": "plato-principal-47",
     "title": "Estofado de pescado",
     "description": "El estofado de pescado es un plato muy consumido a la hora del almuerzo en los hogares ecuatorianos es fácil de preparar y pueden emplearse pescados de agua dulce como la vieja de río o de agua salada como la corvina",
     "preparation_time_min": 60,
@@ -6358,6 +6580,7 @@
   },
   {
     "id": 48,
+    "uid": "plato-principal-48",
     "title": "Filete de cerdo con salsa de pimientos",
     "description": "Existen mil maneras de preparar pimientos, en Ecuador una de estas maneras es forma de salsa para acompañar a los filetes de carne, los pimientos son una muy buena fuente de vitaminas y fibra.",
     "preparation_time_min": 30,
@@ -6384,6 +6607,7 @@
   },
   {
     "id": 49,
+    "uid": "plato-principal-49",
     "title": "Filete de corvina frita",
     "description": "La receta del filete de corvina frito entra en el grupo de recetas más utilizadas en la cocina ecuatoriana, debido a su fácil preparación y a su exquisito sabor la corvina tiene gran aceptación en los hogares ecuatorianos.",
     "preparation_time_min": 120,
@@ -6406,6 +6630,7 @@
   },
   {
     "id": 50,
+    "uid": "plato-principal-50",
     "title": "Filete de pechuga crocante",
     "description": "Ricas pechugas crocantes al estilo Ecuatoriano. Se pueden servir con ensalada, papas fritas o arroz blanco.",
     "preparation_time_min": 120,
@@ -6429,6 +6654,7 @@
   },
   {
     "id": 51,
+    "uid": "plato-principal-51",
     "title": "Filete de pollo al champiñon",
     "description": "Jugoso pollo preparado con una deliciosa salsa de champiñones. Puede acompañarse con arroz o ensalada.",
     "preparation_time_min": 120,
@@ -6456,6 +6682,7 @@
   },
   {
     "id": 52,
+    "uid": "plato-principal-52",
     "title": "Filetes de pescado apanado",
     "description": "Los filetes de pescado apanados son ricos y deliciosos por combinar en un mismo plato la suavidad y sabor del pescado con la textura crujiente que lo envuelve. En la cocina ecuatoriana se les encuentra a menudo en variadas recetas, que sin lugar a dudas encantarán a todos.",
     "preparation_time_min": 120,
@@ -6480,6 +6707,7 @@
   },
   {
     "id": 53,
+    "uid": "plato-principal-53",
     "title": "Fritada de cerdo a la ecuatoriana",
     "description": "Este es un plato delicioso y muy popular en todo el país, el ingrediente estrella es la carne de cerdo. Se sirve con salsa de ají.",
     "preparation_time_min": 120,
@@ -6502,6 +6730,7 @@
   },
   {
     "id": 54,
+    "uid": "plato-principal-54",
     "title": "Fritada de Chancho",
     "description": "La fritada de chancho es uno de deliciosos platos típicos de Ecuador. La carne de chancho (cerdo o puerco) se cocina en agua y jugo de naranja con comino, ajo, cebolla, chalote, sal y pimienta",
     "preparation_time_min": 120,
@@ -6526,6 +6755,7 @@
   },
   {
     "id": 55,
+    "uid": "plato-principal-55",
     "title": "Gallareta asada y arroz con menestra",
     "description": "Este es un plato tradicional de la Costa Ecuatoriana. Tiene mucho sabor ya que consiste de una clásica menestra acompañada con gallareta que es una ave típica de la región. No pierdas la oportunidad de disfrutar de los sabores que encontrarás en este exquisito platillo.",
     "preparation_time_min": 120,
@@ -6556,6 +6786,7 @@
   },
   {
     "id": 56,
+    "uid": "plato-principal-56",
     "title": "Gallina cuyana",
     "description": "La gallina cuyana es un plato típico lojano muy rico que surgió como una variante del cuy asado. Básicamente es un pollo asado condimentado con el marinado utilizado para el cuy, de allí sus sabores tan similares.",
     "preparation_time_min": 120,
@@ -6579,6 +6810,7 @@
   },
   {
     "id": 57,
+    "uid": "plato-principal-57",
     "title": "Gratinado de langosta",
     "description": "En la zona costera ecuatoriana la langosta es muy consumida debido a su exquisito sabor, en esta receta se prepara gratinada, una delicia.",
     "preparation_time_min": 120,
@@ -6615,6 +6847,7 @@
   },
   {
     "id": 58,
+    "uid": "plato-principal-58",
     "title": "Guatita",
     "description": "La guatita se considera plato nacional en Ecuador. Consiste en un estofado hecho a base de trozos de estómago de vacuno, a lo que se le llama guatitas (también conocido en otras regiones como mondongo). Se distingue por ser un plato muy calórico.",
     "preparation_time_min": 120,
@@ -6652,6 +6885,7 @@
   },
   {
     "id": 59,
+    "uid": "plato-principal-59",
     "title": "Guatitas",
     "description": "La guatita es el plato nacional en Ecuador por excelencia, consta de un potaje estofado hecho a base de mondongo a lo que se le llama guatitas. Ideal para los días de frío.",
     "preparation_time_min": 120,
@@ -6689,6 +6923,7 @@
   },
   {
     "id": 60,
+    "uid": "plato-principal-60",
     "title": "Guiso de tatabra",
     "description": "El guiso de tatabra es un plato típico que forma parte de la culinaria esmeraldeña. Este es un platillo tradicional y exquisito que se elabora con carne de animales silvestres. Su sabor es delicioso y deleitará hasta los paladares más exigentes.",
     "preparation_time_min": 60,
@@ -6712,6 +6947,7 @@
   },
   {
     "id": 61,
+    "uid": "plato-principal-61",
     "title": "Guiso de venado",
     "description": "El guiso de venado es un estofado delicioso elaborado con carne de venado. La cultura gastronómica ecuatoriana incluye dentro de sus opciones el uso de carnes de caza, que en este caso poseen menos grasa y tienen un sabor muy especial. No deje de disfrutar de tan suculento plato.",
     "preparation_time_min": 120,
@@ -6739,6 +6975,7 @@
   },
   {
     "id": 62,
+    "uid": "plato-principal-62",
     "title": "Hornado de Chancho",
     "description": "El hornado de chancho o cerdo es un plato típico de Ecuador. Se trata de un plato que contiene carne de cerdo principalmente cocinado en leña, acompañado de guarniciones ecuatorianas como el choclo, plátanos maduros fritos, aguacate, curtido de cebolla, lechuga, tomate y otros ingredientes dependiendo la región donde se prepare.",
     "preparation_time_min": 120,
@@ -6769,6 +7006,7 @@
   },
   {
     "id": 63,
+    "uid": "plato-principal-63",
     "title": "Langosta gratinada",
     "description": "La langosta a pesar de ser un ingrediente muy caro es bastante consumida debido a su excelente sabor que no necesita mucho para hacer un platillo excepcional.",
     "preparation_time_min": 60,
@@ -6814,6 +7052,7 @@
   },
   {
     "id": 64,
+    "uid": "plato-principal-64",
     "title": "Lasaña de carne",
     "description": "Deliciosa Lasaña de carne al estilo Ecuatoriano. Con rica salsa de tomate y queso mozarella fundido.",
     "preparation_time_min": 120,
@@ -6848,6 +7087,7 @@
   },
   {
     "id": 65,
+    "uid": "plato-principal-65",
     "title": "Lasaña mixta",
     "description": "Deliciosa lasaña a base de carne, pollo, vegetales y queso mozarella fundido y gratinado por encima.",
     "preparation_time_min": 120,
@@ -6886,6 +7126,7 @@
   },
   {
     "id": 66,
+    "uid": "plato-principal-66",
     "title": "Lechón navideño",
     "description": "En las fiestas navideñas y de fin de año de Ecuador el lechón es incluso más popular que el pavo, su excelente sabor y bajo costo hacen que sea infaltable para las celebraciones.",
     "preparation_time_min": 120,
@@ -6917,6 +7158,7 @@
   },
   {
     "id": 67,
+    "uid": "plato-principal-67",
     "title": "Lengua en salsa de maní",
     "description": "Esta receta es otro de los platos más ricos de la cocina ecuatoriana. La lengua puede prepararse se diversas maneras pero en esta oportunidad la presentamos embebida en una deliciosa salsa de maní que le aportará un toque inigualable.",
     "preparation_time_min": 120,
@@ -6945,6 +7187,7 @@
   },
   {
     "id": 68,
+    "uid": "plato-principal-68",
     "title": "Locro de ecuador",
     "description": "El locro de Ecuador es una sopa cremosa hecha en base a papas y queso. Es una comida tradicional de la zona serrana donde se le da el nombre de locro quiteño.",
     "preparation_time_min": 120,
@@ -6975,6 +7218,7 @@
   },
   {
     "id": 69,
+    "uid": "plato-principal-69",
     "title": "Lomo a la pimienta",
     "description": "Delicioso lomito de res preparado a la pimienta con vegetales. Se puede acompañar con ensalada o papas.",
     "preparation_time_min": 60,
@@ -7004,6 +7248,7 @@
   },
   {
     "id": 70,
+    "uid": "plato-principal-70",
     "title": "Lomo de cerdo con jamón y queso",
     "description": "Lo mejor de la receta lomo de cerdo relleno con jamón y queso es que a pesar de ser un plato muy delicioso y muy llamativo es muy fácil de preparar.",
     "preparation_time_min": 60,
@@ -7033,6 +7278,7 @@
   },
   {
     "id": 71,
+    "uid": "plato-principal-71",
     "title": "Maito de bagre carachama",
     "description": "El carachama es un bagre acorazado originario dela amazonia ecuatoriana, este maito se prepara con este pescado como ingrediente principal.",
     "preparation_time_min": 120,
@@ -7063,6 +7309,7 @@
   },
   {
     "id": 72,
+    "uid": "plato-principal-72",
     "title": "Maito de carachama",
     "description": "El maito de carachama es un plato típico de la provincia de Orellana en la amazonia ecuatoriana que se realiza con un bagre acorazado llamado carachama",
     "preparation_time_min": 60,
@@ -7095,6 +7342,7 @@
   },
   {
     "id": 73,
+    "uid": "plato-principal-73",
     "title": "Menestra de arroz y lentejas",
     "description": "La menestra de lentejas es un plato típico de la costa del Ecuador, se prepara con lentejas, carne y arroz, simple y deliciosa.",
     "preparation_time_min": 60,
@@ -7121,6 +7369,7 @@
   },
   {
     "id": 74,
+    "uid": "plato-principal-74",
     "title": "Menestra de fréjol",
     "description": "La menestra de fréjol es un plato tradicional en el puerto de Guayaquil y en toda la zona costera ecuatoriana.",
     "preparation_time_min": 60,
@@ -7147,6 +7396,7 @@
   },
   {
     "id": 75,
+    "uid": "plato-principal-75",
     "title": "Menestra de fréjol con arroz y carne",
     "description": "La menestra de fréjol es muy consumida en la costa ecuatoriana y principalmente en el puerto de Guayaquil es una variante de la menestra de lentejas.",
     "preparation_time_min": 120,
@@ -7177,6 +7427,7 @@
   },
   {
     "id": 76,
+    "uid": "plato-principal-76",
     "title": "Menestra de Lentejas",
     "description": "La menestra de lentejas es un plato típico ecuatoriano que se prepara cocinando las lentejas con cebolla, pimiento, tomate, ajo, comino y cilantro. Las menestras son algo típico de la Costa en Ecuador, pero se puede encontrar en la casi todas las ciudades del país. El nombre completo de este plato es arroz con menestra de lentejas y carne asada",
     "preparation_time_min": 120,
@@ -7203,6 +7454,7 @@
   },
   {
     "id": 77,
+    "uid": "plato-principal-77",
     "title": "Moro con papas chauchas",
     "description": "Rica mezcla de sabores al probar un bocado de moro con papas chauchas. Compuesto de arroz, vegetales y lentejas.",
     "preparation_time_min": 120,
@@ -7230,6 +7482,7 @@
   },
   {
     "id": 78,
+    "uid": "plato-principal-78",
     "title": "Pandao de pescado o panda",
     "description": "El Pandao de pescado o Panda, como tradicionalmente se le llama, es un plato típico de los pueblos afrodescendientes del Ecuador. Se preparaba originalmente con pescado de río pero en la actualidad se utilizan pescados de mar, los cuales son envueltos en hojas blancas para posteriormente asarlos a la brasa.",
     "preparation_time_min": 120,
@@ -7258,6 +7511,7 @@
   },
   {
     "id": 79,
+    "uid": "plato-principal-79",
     "title": "Pastel de carne",
     "description": "El pastel de carne es un plato cuyo principal ingrediente es la carne(carne molida de vaca, jamón, tocino) y pan molido con algunas especias. Es fácil de preparar y se puede comer a cualquier hora del día.",
     "preparation_time_min": 60,
@@ -7296,6 +7550,7 @@
   },
   {
     "id": 80,
+    "uid": "plato-principal-80",
     "title": "Pernil ecuatoriano",
     "description": "Delicioso pernil cocinado al horno con vegetales. Puede servirse con papas, arroz o ensalada.",
     "preparation_time_min": 120,
@@ -7325,6 +7580,7 @@
   },
   {
     "id": 81,
+    "uid": "plato-principal-81",
     "title": "Pescado carita con menestra de fréjol.",
     "description": "El pez carita es capturado en casi toda la zona costera de Ecuador y sus platos son muy apetecidos en todos los rincones del país",
     "preparation_time_min": 60,
@@ -7356,6 +7612,7 @@
   },
   {
     "id": 82,
+    "uid": "plato-principal-82",
     "title": "Pollo a la coca cola",
     "description": "Este plato es característico de Ecuador. Compuesto básicamente por pollo preparado con vegetales y cocacola. Se puede acompañar con arroz.",
     "preparation_time_min": 60,
@@ -7383,6 +7640,7 @@
   },
   {
     "id": 83,
+    "uid": "plato-principal-83",
     "title": "Pollo a la florentina",
     "description": "Exquisito pollo jugoso preparado con espinacas y una rica salsa de queso con jugo de limón.",
     "preparation_time_min": 120,
@@ -7418,6 +7676,7 @@
   },
   {
     "id": 84,
+    "uid": "plato-principal-84",
     "title": "Pollo a la naranja con ensalada",
     "description": "Delicioso pollo preparado a la naranja al estilo ecuatoriano. Acompañado con la ensalada de su preferencia.",
     "preparation_time_min": 120,
@@ -7440,6 +7699,7 @@
   },
   {
     "id": 85,
+    "uid": "plato-principal-85",
     "title": "Pollo al curry",
     "description": "Exquisito pollo con mucho sabor preparado al curry. Tradicional en Ecuador. Se acompaña con arroz.",
     "preparation_time_min": 60,
@@ -7468,6 +7728,7 @@
   },
   {
     "id": 86,
+    "uid": "plato-principal-86",
     "title": "Pollo al horno al estilo ecuatoriano",
     "description": "El pollo al horno es exquisito y muy popular en las culturas gastronómicas del mundo. En esta receta lo prepararemos dándole el toque y el sabor ecuatoriano. No pierdas la oportunidad de deleitarte con este suculento plato.",
     "preparation_time_min": 120,
@@ -7489,6 +7750,7 @@
   },
   {
     "id": 87,
+    "uid": "plato-principal-87",
     "title": "Pollo apanado ecuatoriano",
     "description": "Delicioso y crujiente pollo apanado al estilo Ecuatoriano. Muy consumido con papas fritas o arroz.",
     "preparation_time_min": 60,
@@ -7514,6 +7776,7 @@
   },
   {
     "id": 88,
+    "uid": "plato-principal-88",
     "title": "Pollo asado al horno",
     "description": "Suculento pollo asado al horno con especies al estilo Ecuatoriano. Se puede comer con papas, arroz o ensalada.",
     "preparation_time_min": 60,
@@ -7539,6 +7802,7 @@
   },
   {
     "id": 89,
+    "uid": "plato-principal-89",
     "title": "Pollo asado con papas picantes",
     "description": "A los ecuatorianos nos gusta el pollo asado con papas y que mejor que sean papas picantes para acompañar al pollo y disfrutar en familia.",
     "preparation_time_min": 60,
@@ -7569,6 +7833,7 @@
   },
   {
     "id": 90,
+    "uid": "plato-principal-90",
     "title": "Pollo en salsa de maní",
     "description": "El delicioso pollo en salsa de maní es un plato bastante tradicional, con mucho sabor y es ideal para disfrutarlo en familia. Así que anímate a sorprender a todos con tan especial receta.",
     "preparation_time_min": 60,
@@ -7594,6 +7859,7 @@
   },
   {
     "id": 91,
+    "uid": "plato-principal-91",
     "title": "Puchero de cabeza de chancho con yucas",
     "description": "El puchero de cabeza de chancho con yucas es un delicioso guisado muy completo y popular que puede disfrutarse en un buen almuerzo. Es un plato bastante tradicional, lleno de sabores exquisitos que te invitamos a probar.",
     "preparation_time_min": 120,
@@ -7621,6 +7887,7 @@
   },
   {
     "id": 92,
+    "uid": "plato-principal-92",
     "title": "Puchero de cerdo, frejol y verde",
     "description": "Esta receta es uno de los platos tradicionales de la gastronomía del Ecuador. Consiste en un guiso de carne de cerdo con granos y plátanos verdes. Es una comida que se sirve usualmente durante el almuerzo, ya que te deja completamente satisfecho. Te invitamos a que lo prepares y sorprendas a tus comensales.",
     "preparation_time_min": 120,
@@ -7651,6 +7918,7 @@
   },
   {
     "id": 93,
+    "uid": "plato-principal-93",
     "title": "Quinua marinera",
     "description": "La quinua marinera o quinua con mariscos, es una receta muy parecida a la paella de mariscos donde el arroz es sustituido por la quinua. Este es un grano de alto valor nutritivo y grandes propiedades, por lo que dentro de la gastronomía tiene su protagonismo. Así que manos a la obra y anímate a preparar este exquisito plato que es ejemplo de la comida saludable y deliciosa.",
     "preparation_time_min": 120,
@@ -7684,6 +7952,7 @@
   },
   {
     "id": 94,
+    "uid": "plato-principal-94",
     "title": "Sango de verde con pescado",
     "description": "El sango de verde con pescado es un platillo típico de la costa ecuatoriana y además del plátano verde y el pescado otro ingrediente importante para este platillo es el maní, formando un sabor inigualable",
     "preparation_time_min": 60,
@@ -7712,6 +7981,7 @@
   },
   {
     "id": 95,
+    "uid": "plato-principal-95",
     "title": "Sango de verdes con pescado",
     "description": "El sango de verdes con pescado es una receta clásica de la gastronomía ecuatoriana, típica de la zona costera, el maní le da un sabor único!",
     "preparation_time_min": 120,
@@ -7740,6 +8010,7 @@
   },
   {
     "id": 96,
+    "uid": "plato-principal-96",
     "title": "Seco de borrego ecuatoriano",
     "description": "Delicioso seco de borrego Ecuatoriano. Preparado",
     "preparation_time_min": 120,
@@ -7767,6 +8038,7 @@
   },
   {
     "id": 97,
+    "uid": "plato-principal-97",
     "title": "Seco de cabrito o de cordero",
     "description": "El seco es un guiso típico de la gastronomía de Ecuador y puede elaborarse con cualquier tipo de carne, en el país son muy populares los secos de cabrito o de cordero.",
     "preparation_time_min": 60,
@@ -7794,6 +8066,7 @@
   },
   {
     "id": 98,
+    "uid": "plato-principal-98",
     "title": "Seco de carne de guanta",
     "description": "El seco es un guiso típico de la gastronomía de Ecuador puede elaborarse con cualquier tipo de carne, el seco de carne de guanta es típico de la selva amazónica del ecuador.",
     "preparation_time_min": 120,
@@ -7821,6 +8094,7 @@
   },
   {
     "id": 99,
+    "uid": "plato-principal-99",
     "title": "Seco de carne ecuatoriano",
     "description": "El seco de carne es un plato característico de Ecuador. Cocinado con especies y se puede servir con arroz o ensalada.",
     "preparation_time_min": 60,
@@ -7847,6 +8121,7 @@
   },
   {
     "id": 100,
+    "uid": "plato-principal-100",
     "title": "Seco de cerdo",
     "description": "Exquisito seco de cerdo con vegetales y naranjilla, al estilo Ecuatoriano. Se puede acompañar con arroz y aguacate.",
     "preparation_time_min": 120,
@@ -7876,6 +8151,7 @@
   },
   {
     "id": 101,
+    "uid": "plato-principal-101",
     "title": "Seco de Chivo",
     "description": "El seco de chivo es un plato ecuatoriano popular en las provincias de Loja, Santa Elena y Guayas. Se le llama “seco” debido a que, en su preparación, se deja evaporar la mayoría del líquido del guiso. En algunos casos se reemplaza la carne de chivo por carne de borrego, aunque el plato conserva el mismo nombre.",
     "preparation_time_min": 120,
@@ -7912,6 +8188,7 @@
   },
   {
     "id": 102,
+    "uid": "plato-principal-102",
     "title": "Seco de guanta",
     "description": "El seco de guanta es una plato típico de la región amazónica del Ecuador a pesar de ser considerada en peligro de extinción.",
     "preparation_time_min": 120,
@@ -7940,6 +8217,7 @@
   },
   {
     "id": 103,
+    "uid": "plato-principal-103",
     "title": "Seco de pato",
     "description": "El tradicional Seco de Pato, es muy popular en las festividades de los pueblos de la Costa. En Ecuador se consume mucho la carne de aves, por lo que este plato de sabor exquisito es una buena opción para compartir y degustar de la identidad gastronómica de esta región.",
     "preparation_time_min": 120,
@@ -7965,6 +8243,7 @@
   },
   {
     "id": 104,
+    "uid": "plato-principal-104",
     "title": "Seco de pollo ecuatoriano",
     "description": "Jugoso Seco de pollo preparado con vegetales y naranjilla. Toda una explosión de sabor. Se puede servir con arroz.",
     "preparation_time_min": 60,
@@ -8001,6 +8280,7 @@
   },
   {
     "id": 105,
+    "uid": "plato-principal-105",
     "title": "Seco de Pollo o Gallina",
     "description": "El seco de pollo o gallina es uno de esos platos que se suelen encontrar en cualquier hogar ecuatoriano. El seco de pollo, también conocido como seco de gallina criolla, se cocina a fuego lento en una salsa de cerveza, cebolla, pimiento, tomate, hierbas y condimentos. Tradicionalmente se usaba chicha para preparar el seco, pero hoy en día es más común con cerveza.",
     "preparation_time_min": 120,
@@ -8032,6 +8312,7 @@
   },
   {
     "id": 106,
+    "uid": "plato-principal-106",
     "title": "Spaghetti con albondigas",
     "description": "El spaghetti con albondigas es un plato italo-estadounidense que usualmente consiste de espagueti, salsa de tomates, y albóndigas que es muy delicioso y tiene gran aceptación en la población ecuatoriana",
     "preparation_time_min": 120,
@@ -8069,6 +8350,7 @@
   },
   {
     "id": 107,
+    "uid": "plato-principal-107",
     "title": "Sudado de pescado con chifles",
     "description": "El sudado de pescado es un rico plato cocinado al vapor. Acompañado de chifles o arroz. Toda una delicia.",
     "preparation_time_min": 120,
@@ -8094,6 +8376,7 @@
   },
   {
     "id": 108,
+    "uid": "plato-principal-108",
     "title": "Tallarin de carne ecuatoriano",
     "description": "Exquisitos tallarines preparados con una jugosa carne y salsa a base de tomate y vegetales.",
     "preparation_time_min": 60,
@@ -8124,6 +8407,7 @@
   },
   {
     "id": 109,
+    "uid": "plato-principal-109",
     "title": "Tallarín de pollo",
     "description": "El tallarín de pollo tiene un sabor muy especial y en el Ecuador es muy típico servir el tallarín de pollo acompañado con arroz.",
     "preparation_time_min": 60,
@@ -8156,6 +8440,7 @@
   },
   {
     "id": 110,
+    "uid": "plato-principal-110",
     "title": "Tallarines de cangrejo",
     "description": "Los tallarines con cangrejo, es una receta deliciosa y muy sencilla de preparar. El cangrejo tiene el protagonismo en este caso, y es que la suavidad de su sabor, hacen de este plato una delicia al paladar. Anímate a aprender como prepararlo y sorprenderás a todos.",
     "preparation_time_min": 120,
@@ -8186,6 +8471,7 @@
   },
   {
     "id": 111,
+    "uid": "plato-principal-111",
     "title": "Tamal de arroz en hoja de col",
     "description": "Estos ricos tamales de arroz rellenos con carne, son un plato muy completo y con un sabor impresionante. Son ideales para un almuerzo, ya que combina la carne con los vegetales y el arroz, y sin olvidar el toque delicioso de la salsa de maní. Anímate y manos a la obra.",
     "preparation_time_min": 120,
@@ -8218,6 +8504,7 @@
   },
   {
     "id": 112,
+    "uid": "plato-principal-112",
     "title": "Tapao arrecho",
     "description": "El tapao arrecho es un plato típico del Ecuador originario de la provincia de Esmeraldas",
     "preparation_time_min": 60,
@@ -8257,6 +8544,7 @@
   },
   {
     "id": 113,
+    "uid": "plato-principal-113",
     "title": "Tapao de arrecho",
     "description": "El tapao arrecho es un plato clásico de la gastronomía ecuatoriana, originario de Esmeraldas que se realiza con carne y verduras y el toque característico de los verdes de Ecuador.",
     "preparation_time_min": 120,
@@ -8292,6 +8580,7 @@
   },
   {
     "id": 114,
+    "uid": "plato-principal-114",
     "title": "Tapao de pescado",
     "description": "El tapao de pescado es un plato típico de la cocina esmeraldeña, y se basa en un preparado de pescado fresco o salado, plátano verde y aromatizado con hierbas como la chillangua, orégano o chirarán. En la receta tradicional, se cocina tapado con hojas de plátano.",
     "preparation_time_min": 120,
@@ -8320,6 +8609,7 @@
   },
   {
     "id": 115,
+    "uid": "plato-principal-115",
     "title": "Tilapia apanada",
     "description": "La tilapia es un pescado que muestra crecimiento en el consumo y producción en el Ecuador y la tilapia apanada es un platillo muy delicioso y fácil de preparar",
     "preparation_time_min": 60,
@@ -8344,6 +8634,7 @@
   },
   {
     "id": 116,
+    "uid": "plato-principal-116",
     "title": "Tilapia empanada",
     "description": "La tilapia es un pescado que se consume cada vez mas en Ecuador y se utiliza para diversas preparaciones, en este caso la tilapia apanada es fácil de preparar y deliciosa.",
     "preparation_time_min": 60,
@@ -8367,6 +8658,7 @@
   },
   {
     "id": 117,
+    "uid": "plato-principal-117",
     "title": "Tripa mhisqui",
     "description": "Este es un plato oriundo de la región serrana del Ecuador, su ingrediente estrella son las tripas de res asada. El nombre del plato significa \"de buen sabor\".",
     "preparation_time_min": 120,
@@ -8392,6 +8684,7 @@
   },
   {
     "id": 118,
+    "uid": "plato-principal-118",
     "title": "Tripa Mishqui",
     "description": "La tripa mishqui es un plato tradicional de la gastronomía de la Sierra del Ecuador, que consiste en tripa de vaca asada en carbones. Para algunos, su valor nutricional es único. Se sirve usualmente con mote o papas. La palabra mishqui significa sabroso o de buen sabor.",
     "preparation_time_min": 60,
@@ -8416,6 +8709,7 @@
   },
   {
     "id": 1,
+    "uid": "postre-1",
     "title": "Alfajores",
     "description": "Los alfajores de manjar es uno de los dulces favoritos de las familias ecuatorianas, puedes encontrar los mejores alfajores en la provincia de Manabi.",
     "preparation_time_min": 30,
@@ -8441,6 +8735,7 @@
   },
   {
     "id": 2,
+    "uid": "postre-2",
     "title": "Alfajores rellenos de manjar",
     "description": "Ricos dulces de alfajores rellenos con manjar o dulce de leche. Tradicionales de Ecuador.",
     "preparation_time_min": 120,
@@ -8466,6 +8761,7 @@
   },
   {
     "id": 3,
+    "uid": "postre-3",
     "title": "Aplanchado",
     "description": "El aplanchado es un postre clásico de la Sierra, en el Ecuador. Este dulce tradicional se realiza con hojaldre y azúcar glasé.",
     "preparation_time_min": 120,
@@ -8494,6 +8790,7 @@
   },
   {
     "id": 4,
+    "uid": "postre-4",
     "title": "Aplanchados",
     "description": "El aplanchado es un dulce tradicional de la Sierra, en el Ecuador. Este postre consiste en una capa de masa de hojaldre cubierta por una capa de azúcar glasé.",
     "preparation_time_min": 60,
@@ -8522,6 +8819,7 @@
   },
   {
     "id": 5,
+    "uid": "postre-5",
     "title": "Arroz con leche",
     "description": "El arroz con leche es un postre típico del Ecuador que le encanta principalmente a los niños, se sirve frío o caliente.",
     "preparation_time_min": 60,
@@ -8548,6 +8846,7 @@
   },
   {
     "id": 6,
+    "uid": "postre-6",
     "title": "Bollitos de yuca",
     "description": "Estos clásicos bollitos de harina de yuca, son un éxito simple y económico de la repostería ecuatoriana, ideales para la merienda.",
     "preparation_time_min": 60,
@@ -8572,6 +8871,7 @@
   },
   {
     "id": 7,
+    "uid": "postre-7",
     "title": "Budín de pan",
     "description": "El budín de pan es uno de los postres más fáciles de elaborar, pero lo sencillo no le quita lo exquisito",
     "preparation_time_min": 30,
@@ -8600,6 +8900,7 @@
   },
   {
     "id": 8,
+    "uid": "postre-8",
     "title": "Buñuelos de mandioca",
     "description": "Los buñuelos de mandioca son dulce clásicos ecuatorianos que utilizan la mandioca y la miel para formar un postre tradicional exquisito.",
     "preparation_time_min": 120,
@@ -8627,6 +8928,7 @@
   },
   {
     "id": 9,
+    "uid": "postre-9",
     "title": "Buñuelos de yuca",
     "description": "Los buñuelos de yuca son postres tradicionales y que se pueden servir en cualquier momento, con el sabor del queso, la yuca y la miel forman una mezcla exquisita para degustar.",
     "preparation_time_min": 60,
@@ -8656,6 +8958,7 @@
   },
   {
     "id": 10,
+    "uid": "postre-10",
     "title": "Chocolate caliente con queso",
     "description": "Exquisito postre de chocolate caliente. Con un toque único y tradicional de Ecuador al acompañarlo con queso.",
     "preparation_time_min": 120,
@@ -8678,6 +8981,7 @@
   },
   {
     "id": 11,
+    "uid": "postre-11",
     "title": "Cocadas ecuatorianas",
     "description": "Las cocadas son un dulce clásico de Ecuador. Manjar famoso que lleva al coco como su ingrediente estrella.",
     "preparation_time_min": 120,
@@ -8700,6 +9004,7 @@
   },
   {
     "id": 12,
+    "uid": "postre-12",
     "title": "Cocadas Esmeraldeñas",
     "description": "Las cocadas son uno de los clásicos dulces de coco de la ciudad ecuatoriana de Esmeraldas. Es un manjar de panela seca con textura comprometedora del coco que se mete hasta el infinito del gusto.",
     "preparation_time_min": 120,
@@ -8722,6 +9027,7 @@
   },
   {
     "id": 13,
+    "uid": "postre-13",
     "title": "Come y Bebe",
     "description": "El come y bebe es una ensalada de frutas ecuatoriana muy fácil de preparar que contiene frutas exóticas y muy frescas, como papaya, banano, piña, mango, guineos maduros, moras, etc., acompañadas con zumo de naranja. Esta mezcla de trozos enteros de frutas y zumo de naranja, puede comerse y beberse a la vez, de ahí el nombre peculiar de este postre.",
     "preparation_time_min": 15,
@@ -8745,6 +9051,7 @@
   },
   {
     "id": 14,
+    "uid": "postre-14",
     "title": "Crema de chirimoya",
     "description": "La chirimoya es una planta comestible originaria del sur del Ecuador, donde crece de forma silvestre, tiene un exquisito sabor que se expresa muy bien en esta crema.",
     "preparation_time_min": 60,
@@ -8769,6 +9076,7 @@
   },
   {
     "id": 15,
+    "uid": "postre-15",
     "title": "Crema de chirimoyas",
     "description": "La chirimoya es originaria de la parte sur del Ecuador, en la provincia de Loja, donde se encuentra formando densos bosques silvestres. La crema de chirimoyas es un postre que tiene un exquisito sabor y es muy fácil de realizar.",
     "preparation_time_min": 30,
@@ -8793,6 +9101,7 @@
   },
   {
     "id": 16,
+    "uid": "postre-16",
     "title": "Dulce de Babaco",
     "description": "El babaco es una fruta original de la provincia de Loja, en Ecuador. Es un híbrido natural resultante del cruce entre toronche y chamburo. El dulce de babaco es una especie de almíbar hecho con la fruta, azúcar, agua y un poco de canela. Existen variantes de la receta donde añaden ron, cachaca o aguardiente.",
     "preparation_time_min": 60,
@@ -8817,6 +9126,7 @@
   },
   {
     "id": 17,
+    "uid": "postre-17",
     "title": "Dulce de babacos",
     "description": "El babaco es una fruta originaria del Ecuador. En esta receta se preparará una especie de almíbar hecho con la fruta, azúcar, agua y canela.",
     "preparation_time_min": 60,
@@ -8841,6 +9151,7 @@
   },
   {
     "id": 18,
+    "uid": "postre-18",
     "title": "Dulce de higo con queso",
     "description": "Suculentos higos acaramelados. Con un toque autentico de Ecuador del queso y la canela.",
     "preparation_time_min": 120,
@@ -8863,6 +9174,7 @@
   },
   {
     "id": 19,
+    "uid": "postre-19",
     "title": "Dulce de higos",
     "description": "El dulce de higos es uno de esos postres que representan la esencia de Ecuador, son deliciosos y sencillos. El proceso para preparar los higos es un poco largo, tarda casi tres días, pero vale la pena la espera, es el toque ideal para el final a una buena comida.",
     "preparation_time_min": 60,
@@ -8889,6 +9201,7 @@
   },
   {
     "id": 20,
+    "uid": "postre-20",
     "title": "Dulce de leche",
     "description": "El espectacular dulce de leche o manjar de leche, como es típicamente conocido en Ecuador, es un postre muy tradicional en latinoamérica. Es un postre que le encanta a todos y se consume como parte de otras delicias o simplemente solo. Anímate a prepararlo.",
     "preparation_time_min": 120,
@@ -8911,6 +9224,7 @@
   },
   {
     "id": 21,
+    "uid": "postre-21",
     "title": "Dulce de sambo",
     "description": "El sambo es un fruto que en el país se desarrolla de forma silvestre en laderas y quebradas, principalmente de las provincias la sierra, en dónde se elaboran sopas, coladas y dulces.",
     "preparation_time_min": 60,
@@ -8934,6 +9248,7 @@
   },
   {
     "id": 22,
+    "uid": "postre-22",
     "title": "Dulce de sambos",
     "description": "El sambo es un fruto tradicional del Ecuador, crece de forma silvestre en toda la región de la sierra siendo el ingrediente principal de muchas compotas, sopas y dulces exquisitos.",
     "preparation_time_min": 60,
@@ -8957,6 +9272,7 @@
   },
   {
     "id": 23,
+    "uid": "postre-23",
     "title": "Dulce de Zapallo",
     "description": "El dulce de zapallo, también conocido como zapallo con miel de panela, es un postre tradicional ecuatoriano preparado con zapallo (calabaza o auyama), panela o piloncillo y especias. Este delicioso postre usa ingredientes sencillos y es muy fácil de preparar. Se sirve acompañado con un trozo de quesillo o queso.",
     "preparation_time_min": 60,
@@ -8979,6 +9295,7 @@
   },
   {
     "id": 24,
+    "uid": "postre-24",
     "title": "Dulces de los reyes",
     "description": "Los famosos Dulces de los Reyes, son un exquisito postre que consiste de un biscocho esponjoso cubierto con mermelada y manjar de leche. Es una de los dulces típicos y que forma parte de las tradiciones gastronómicas del Ecuador.",
     "preparation_time_min": 120,
@@ -9008,6 +9325,7 @@
   },
   {
     "id": 25,
+    "uid": "postre-25",
     "title": "Envueltos de maqueño",
     "description": "Los envueltos de maqueño o plátano maduro es muy popular en Ecuador y su consumo se ha generalizado principalmente gracias a los migrantes colombianos que han llegado al país.",
     "preparation_time_min": 60,
@@ -9035,6 +9353,7 @@
   },
   {
     "id": 26,
+    "uid": "postre-26",
     "title": "Espumillas",
     "description": "Las espumillas, también conocido como suspiritos o suspiros son un dulce muy popular en Ecuador. Se trata de una especie de espuma cremosa tipo merengue preparada con pulpa de guayaba, claras de huevo y azúcar. Se puede colorear, de manera que se encuentra en diversos colores.",
     "preparation_time_min": 60,
@@ -9055,6 +9374,7 @@
   },
   {
     "id": 27,
+    "uid": "postre-27",
     "title": "Flan de Coco",
     "description": "El flan de coco es un postre muy popular en Ecuador que se prepara con coco rallado, leche condensada, leche, huevos y azúcar. Este flan es un postre fácil de preparar que todos disfrutan.",
     "preparation_time_min": 60,
@@ -9077,6 +9397,7 @@
   },
   {
     "id": 28,
+    "uid": "postre-28",
     "title": "Galletas de coco",
     "description": "Las tradicionales galletas de coco rallado, son uno de los postres más apetecidos para compartir en las meriendas vespertinas. Estos deliciosos bocadillos dulces tienen un sabor muy especial, característico del coco y pueden disfrutarse acompañadas de helado o con una taza de café o chocolate caliente.",
     "preparation_time_min": 120,
@@ -9103,6 +9424,7 @@
   },
   {
     "id": 29,
+    "uid": "postre-29",
     "title": "Guaguas de pan",
     "description": "Las guaguas son un pan muy tradicional de Ecuador preparadas especialmente para celebrar el día de los difuntos.",
     "preparation_time_min": 120,
@@ -9134,6 +9456,7 @@
   },
   {
     "id": 30,
+    "uid": "postre-30",
     "title": "Guayuas de pan",
     "description": "Deliciosos pancitos denominados guayuas de pan. Decorados alegremente. Muy consumido en Ecuador.",
     "preparation_time_min": 120,
@@ -9167,6 +9490,7 @@
   },
   {
     "id": 31,
+    "uid": "postre-31",
     "title": "Helado de paila",
     "description": "Los deliciosos helados de paila, son un tradición gastronómica de Ecuador. Su elaboración es de manera artesanal, implementándose técnicas que se han transmitido de generación en generación. Sus sabores intensos a frutas, sus colores y cremosidad, los hacen una opción exquisita para el disfrute de todos.",
     "preparation_time_min": 120,
@@ -9191,6 +9515,7 @@
   },
   {
     "id": 32,
+    "uid": "postre-32",
     "title": "Helado de paila de mora y mango ecuatoriano",
     "description": "Rico postre frió preparado en paila con la ayuda de hielo. Un autentico Helado Ecuatoriano.",
     "preparation_time_min": 120,
@@ -9219,6 +9544,7 @@
   },
   {
     "id": 33,
+    "uid": "postre-33",
     "title": "Helado frito",
     "description": "El helado frito está ganando bastante popularidad en Ecuador, especialmente en las ciudades grandes como Quito y Guayaquil",
     "preparation_time_min": 30,
@@ -9243,6 +9569,7 @@
   },
   {
     "id": 34,
+    "uid": "postre-34",
     "title": "Helados de salcedo",
     "description": "Los ricos helados de Salcedo, son uno de los postres favoritos de niños y adultos en Ecuador. Y si eres de los que le encantan los helados, estos son una deliciosa alternativa si quieres disfrutar del sabor de las frutas naturales. Tradicionalmente se hacen a base de capas multicolores que representan los diferentes sabores.",
     "preparation_time_min": 120,
@@ -9268,6 +9595,7 @@
   },
   {
     "id": 35,
+    "uid": "postre-35",
     "title": "Isla flotante",
     "description": "La isla flotante es un postre clásico, suave y delicioso que puede ser degustado entre todos los miembros de la familia.",
     "preparation_time_min": 30,
@@ -9294,6 +9622,7 @@
   },
   {
     "id": 36,
+    "uid": "postre-36",
     "title": "Javishca de zapallo",
     "description": "La javishca es una clásica bebida caliente de Ecuador, sus ingredientes principales son el zapallo y la leche y es la bebida preferida de la región serrana en épocas de cosecha.",
     "preparation_time_min": 30,
@@ -9316,6 +9645,7 @@
   },
   {
     "id": 37,
+    "uid": "postre-37",
     "title": "Kimbolitos",
     "description": "Los deliciosos quimbolitos, son pequeños bizcochos elaborados con una masa dulce de harina de maíz blanco, el toque salado de queso y unas riquísimas pasas. Este exquisito manjar se cocina al vapor en hojas de achira y pueden consumirse acompañadas de una deliciosa taza de café.",
     "preparation_time_min": 120,
@@ -9346,6 +9676,7 @@
   },
   {
     "id": 38,
+    "uid": "postre-38",
     "title": "Manjar blanco ecuatoriano",
     "description": "Delicioso dulce característico de Ecuador. Muy suave compuesto por leche y azúcar. Con un toque de canela.",
     "preparation_time_min": 120,
@@ -9364,6 +9695,7 @@
   },
   {
     "id": 39,
+    "uid": "postre-39",
     "title": "Medias Lunas de Nuez",
     "description": "Las medias lunas son un delicioso postre que puedes encontrar en los restaurantes ecuatorianos y que son muy fáciles de preparar en tu hogar para que te luzcas con tus invitados.",
     "preparation_time_min": 60,
@@ -9388,6 +9720,7 @@
   },
   {
     "id": 40,
+    "uid": "postre-40",
     "title": "Mermelada de Piña",
     "description": "La piña es una de las frutas exóticas muy común de Ecuador, con la cual se prepara un gran número de postres como la mermelada de piña. Para preparar este dulce, además de la piña, se utiliza otros ingredientes como azúcar o panela rallada, canela, clavos de olor, cardamomo, cedrón y zumo de limón.",
     "preparation_time_min": 60,
@@ -9412,6 +9745,7 @@
   },
   {
     "id": 41,
+    "uid": "postre-41",
     "title": "Mermelada de tomate de Árbol",
     "description": "La mermelada de tomate de árbol o tamarillo, es un exquisito postre muy fácil de preparar. Esta fruta está llena de vitaminas y propiedades muy saludables, por lo que disfrutarla de esta forma deleitará su paladar. Es común acompañarla con galletas o pan.",
     "preparation_time_min": 120,
@@ -9436,6 +9770,7 @@
   },
   {
     "id": 42,
+    "uid": "postre-42",
     "title": "Milhojas y orejitas ecuatorianas",
     "description": "Rico postre característico de Ecuador. Generalmente se come en forma de orejitas. Endulzado con canela y azúcar.",
     "preparation_time_min": 120,
@@ -9459,6 +9794,7 @@
   },
   {
     "id": 43,
+    "uid": "postre-43",
     "title": "Morocho dulce ecuatoriano",
     "description": "Delicioso dulce tradicional de Ecuador. Compuesto por morocho dulce y esencias que le dan ese toque caracteristico.",
     "preparation_time_min": 60,
@@ -9485,6 +9821,7 @@
   },
   {
     "id": 44,
+    "uid": "postre-44",
     "title": "Mousse de dulce de leche",
     "description": "El mousse de dulce de leche es un postre que podrás realizar en poco tiempo y le va a encantar a los más pequeños de la casa. En Ecuador al dulce de leche se lo conoce también como manjar de leche",
     "preparation_time_min": 30,
@@ -9508,6 +9845,7 @@
   },
   {
     "id": 45,
+    "uid": "postre-45",
     "title": "Mousse de taxo",
     "description": "Este rico y delicado postre se elabora a base del Taxo, una fruta deliciosa y con múltiples propiedades. Es típica del Ecuador y tiene gran sabor, muy nutritiva y saludable. Sencillamente una alternativa deliciosa de aprovechar las bondades de este fruto. Anímate.",
     "preparation_time_min": 120,
@@ -9532,6 +9870,7 @@
   },
   {
     "id": 46,
+    "uid": "postre-46",
     "title": "Muffins de manzana y canela",
     "description": "En Ecuador el consumo de manzana es bastante alto e incluso su producción local no alcanza para cubrir la demanda, las personas la consumen generalmente frescas pero también en postres como el muffins de manzana y canela",
     "preparation_time_min": 60,
@@ -9564,6 +9903,7 @@
   },
   {
     "id": 47,
+    "uid": "postre-47",
     "title": "Natilla o mazamorra de choclo",
     "description": "La natilla o mazmorra de choclo es un platillo muy popular en la provincia de Manabi y se hace con el choclo cuando está endureciendo,",
     "preparation_time_min": 60,
@@ -9589,6 +9929,7 @@
   },
   {
     "id": 48,
+    "uid": "postre-48",
     "title": "Negro en camisa",
     "description": "El postre \"Negro en camisa\" es un Mousse de chocolate que está ganando popularidad en Ecuador gracias a los migrantes venezolanos que han llegado al territorio.",
     "preparation_time_min": 120,
@@ -9616,6 +9957,7 @@
   },
   {
     "id": 49,
+    "uid": "postre-49",
     "title": "Nogadas",
     "description": "Las nogadas son dulces artesanales muy ricos y típicos de la gastronomía de Ibarra. Tradicionalmente se les puede encontrar en cajitas de sauce envueltas en papel celofán.",
     "preparation_time_min": 120,
@@ -9641,6 +9983,7 @@
   },
   {
     "id": 50,
+    "uid": "postre-50",
     "title": "Paquetitos de maqueño",
     "description": "Los paquetitos de maqueño o plátano maduro son un dulce muy popular en Ecuador, comparte su origen con la patria colombiana. Simples de realizar, son una delicia.",
     "preparation_time_min": 60,
@@ -9669,6 +10012,7 @@
   },
   {
     "id": 51,
+    "uid": "postre-51",
     "title": "Pie de Maduro",
     "description": "El maduro es un plátano indispensable en la cocina ecuatoriana. Esta receta de pie de maduro contrasta el sabor dulce del plátano con el salado del queso, haciendo de este postre una fabulosa combinación propia del Ecuador.",
     "preparation_time_min": 120,
@@ -9698,6 +10042,7 @@
   },
   {
     "id": 52,
+    "uid": "postre-52",
     "title": "Pristiños",
     "description": "Los pristiños con miel son muy tradicionales en Ecuador para disfrutar en cualquier fecha del año, son deliciosas masitas bañadas con miel.",
     "preparation_time_min": 60,
@@ -9728,6 +10073,7 @@
   },
   {
     "id": 53,
+    "uid": "postre-53",
     "title": "Pristiños con miel",
     "description": "Los pristiños con miel son dulces tradicionales del Ecuador, se consumen clasicamente durante las celebraciones navideñas.",
     "preparation_time_min": 60,
@@ -9758,6 +10104,7 @@
   },
   {
     "id": 54,
+    "uid": "postre-54",
     "title": "Quesadillas Ecuatorianas",
     "description": "Las quesadillas, son bocados dulces de gran sabor, que son tradicionales en la ciudad de Quito, capital de los ecuatorianos. Esta delicia criolla suele acompañarse con helado o los famosos salpicones (jugos de fruta natural con hielo raspado).",
     "preparation_time_min": 120,
@@ -9782,6 +10129,7 @@
   },
   {
     "id": 55,
+    "uid": "postre-55",
     "title": "Queso de Piña",
     "description": "En Ecuador, especialmente en la costa, es muy común encontrar deliciosos flanes preparados con coco, piña u otras frutas. El queso de piña es una receta sencilla para preparar un delicioso flan con jugo de piña, azúcar, leche, huevos, vainilla y ron.",
     "preparation_time_min": 120,
@@ -9811,6 +10159,7 @@
   },
   {
     "id": 56,
+    "uid": "postre-56",
     "title": "Quimbolitos",
     "description": "Los quimbolitos son pasteles, propios del Ecuador y del sur de Colombia elaborados con harina de maíz, cocidos al vapor envueltos en hojas de achira.",
     "preparation_time_min": 60,
@@ -9846,6 +10195,7 @@
   },
   {
     "id": 57,
+    "uid": "postre-57",
     "title": "Quimbolitos ecuatorianos",
     "description": "Los tradicionales quimbolitos son pasteles dulces autoctonos del Ecuador con la particularidad de ser cocidos al vapor envueltos en hojas de la planta de achira.",
     "preparation_time_min": 60,
@@ -9877,6 +10227,7 @@
   },
   {
     "id": 58,
+    "uid": "postre-58",
     "title": "Rosquitas de Mantequilla",
     "description": "Las rosquitas de mantequilla, hechas al horno, son muy populares en la ciudad de Guayaquil. Estas rosquitas ecuatorianas son deliciosas con Nutella o mermeladas de fruta y van bien con un té o un café.",
     "preparation_time_min": 120,
@@ -9902,6 +10253,7 @@
   },
   {
     "id": 59,
+    "uid": "postre-59",
     "title": "Tarta de maduro",
     "description": "El maduro es el plátano tradicional de la gastronomía ecuatoriana, ingrediente principal de múltiples recetas, en este caso una tarda de maduro y queso. Una delicia.",
     "preparation_time_min": 120,
@@ -9933,6 +10285,7 @@
   },
   {
     "id": 60,
+    "uid": "postre-60",
     "title": "Tarta de mandarinas",
     "description": "La tarta de mandarina es un postre delicioso y que podamos preparar sin demasiadas complicaciones para cualquier celebración.",
     "preparation_time_min": 120,
@@ -9964,6 +10317,7 @@
   },
   {
     "id": 61,
+    "uid": "postre-61",
     "title": "Tiramisú con fresas",
     "description": "El tiramisú de fresas es un postre ligero y delicioso, es el broche de oro para cualquier ocasión especial.",
     "preparation_time_min": 30,
@@ -9993,6 +10347,7 @@
   },
   {
     "id": 62,
+    "uid": "postre-62",
     "title": "Torta de Choclo con Coco",
     "description": "El choclo es muy popular en la gastronomía de Ecuador y la torta de choclo es una de las tantas recetas tradicionales con este alimento delicioso y nutritivo. Este postre viene bien a cualquier hora del día acompañado con una buena taza de café.",
     "preparation_time_min": 120,
@@ -10018,6 +10373,7 @@
   },
   {
     "id": 63,
+    "uid": "postre-63",
     "title": "Torta de Naranja",
     "description": "Esta receta ecuatoriana de la torta de naranja es muy fácil, rica y económica de preparar. Esta torta esponjosa es ideal para compartir a la hora de la merienda acompañada de té o café.",
     "preparation_time_min": 120,
@@ -10042,6 +10398,7 @@
   },
   {
     "id": 64,
+    "uid": "postre-64",
     "title": "Torta de zapallo",
     "description": "El zapallo es una de las hortalizas más conocidas para hacer cremas, sopas o alguna otra preparación y últimamente han ganado mucha popularidad los pasteles de zapallo que son muy consumidos especialmente en la Semana Santa.",
     "preparation_time_min": 60,
@@ -10070,6 +10427,7 @@
   },
   {
     "id": 65,
+    "uid": "postre-65",
     "title": "Tortillas de verde",
     "description": "Muchos de los desayunos en Ecuador tienen al plátano verde, o simplemente verde, como un ingrediente infaltable para sus preparaciones, en esta ocasión tortillas de verde.",
     "preparation_time_min": 30,
@@ -10094,6 +10452,7 @@
   },
   {
     "id": 66,
+    "uid": "postre-66",
     "title": "Tres leches ecuatoriana",
     "description": "Uno de los postres frios preferidos es la tres leches. Esa mezcla de bizcocho mojado de leche con la crema por encima tiene un sabor único.",
     "preparation_time_min": 120,
@@ -10125,6 +10484,7 @@
   },
   {
     "id": 67,
+    "uid": "postre-67",
     "title": "Turrón dulce",
     "description": "El turrón es sin duda uno de los más característicos postres de la Navidad, en Ecuador puedes encontrarlos durante todo el año en pueblos de la costa y en la sierra ecuatoriana.",
     "preparation_time_min": 60,
@@ -10152,6 +10512,7 @@
   },
   {
     "id": 68,
+    "uid": "postre-68",
     "title": "Turrón dulce ecuatoriano",
     "description": "El turrón es considerado en todo el mundo un clásico de la Navidad, en Ecuador el ingrediente sorpresa son las obleas, el toque mágico de la costa ecuatoriana.",
     "preparation_time_min": 120,
@@ -10179,6 +10540,7 @@
   },
   {
     "id": 69,
+    "uid": "postre-69",
     "title": "Volteado de piña",
     "description": "Es un postre clásico y muy rico que se prepara de una forma bastante fácil. Consiste de un biscocho bastante húmedo y jugoso que se baña en un caramelo con sabor a piña. Es muy común encontrarla en los hogares y en pastelerías, y puedes disfrutarla en cualquier ocasión.",
     "preparation_time_min": 120,
@@ -10209,6 +10571,7 @@
   },
   {
     "id": 1,
+    "uid": "bebida-1",
     "title": "Batido de borojó",
     "description": "El batido de borojó es famoso en toda la población ecuatoriana debido a los efectos afrodisíacos naturales que se le conocen. Vale la pena probarlo!",
     "preparation_time_min": 15,
@@ -10232,6 +10595,7 @@
   },
   {
     "id": 2,
+    "uid": "bebida-2",
     "title": "Batido de guineo",
     "description": "Los batidos de guineo son deliciosos y muy fáciles de preparar en casa con ingredientes relativamente baratos.",
     "preparation_time_min": 15,
@@ -10252,6 +10616,7 @@
   },
   {
     "id": 3,
+    "uid": "bebida-3",
     "title": "Batido de mango",
     "description": "El mango ecuatoriano se cultiva principalmente en la provincia del Guayas y la mayoría se exporta, pero también es muy consumido por la población local en varías presentaciones incluidos los batidos",
     "preparation_time_min": 120,
@@ -10273,6 +10638,7 @@
   },
   {
     "id": 4,
+    "uid": "bebida-4",
     "title": "Batido de mangos",
     "description": "El mango es una de las frutas características de todo el caribe, en Ecuador crece en la región de Guayas y es consumido los días de mucho calor en forma de jugos y coladas frescas.",
     "preparation_time_min": 120,
@@ -10294,6 +10660,7 @@
   },
   {
     "id": 5,
+    "uid": "bebida-5",
     "title": "Batido de oreo",
     "description": "El batido de galletas oreo es uno de los solicitados en los puestos de ventas de batidos en todos los pueblos de la costa ecuatoriana.",
     "preparation_time_min": 30,
@@ -10316,6 +10683,7 @@
   },
   {
     "id": 6,
+    "uid": "bebida-6",
     "title": "Batido de taxo",
     "description": "En Ecuador, el taxo se cultiva en la serranía su cultivo se encuentra asociado con los árboles de capulí o con los de tomate árbol.",
     "preparation_time_min": 15,
@@ -10339,6 +10707,7 @@
   },
   {
     "id": 7,
+    "uid": "bebida-7",
     "title": "Batido de taxos",
     "description": "El taxo, tumbo o curuba es una fruta de la región serrana ecuatoriana, es conocida por sus beneficios sobre la salud al ser rica en vitaminas y minerales, una forma rica de incorporarla es en batidos frescos.",
     "preparation_time_min": 120,
@@ -10363,6 +10732,7 @@
   },
   {
     "id": 8,
+    "uid": "bebida-8",
     "title": "Bebida de Alcachofa",
     "description": "La alcachofa es depurativa, desintoxicante, refrescante, antireumática y reguladora de los niveles de colesterol.",
     "preparation_time_min": 15,
@@ -10385,6 +10755,7 @@
   },
   {
     "id": 9,
+    "uid": "bebida-9",
     "title": "Bebida de Berros",
     "description": "Los jugos verdes son una muy buena opción para mantener una vida saludable, ya que estos jugos nos ayudan a limpiar nuestra sangre y depurar nuestros órganos vitales",
     "preparation_time_min": 15,
@@ -10404,6 +10775,7 @@
   },
   {
     "id": 10,
+    "uid": "bebida-10",
     "title": "Bebida de chocolate",
     "description": "Ecuador cultiva uno de los chocolates más apreciados del mundo y en todas las regiones del país se preparan numerosas bebidas de chocolate.",
     "preparation_time_min": 30,
@@ -10426,6 +10798,7 @@
   },
   {
     "id": 11,
+    "uid": "bebida-11",
     "title": "Bebida de Espinaca",
     "description": "Incorporar espinaca a nuestra dieta es siempre una opción nutritiva y saludable, este batido se lo encuentra en puestos de mercados populares principalmente.",
     "preparation_time_min": 120,
@@ -10448,6 +10821,7 @@
   },
   {
     "id": 12,
+    "uid": "bebida-12",
     "title": "Caipirinha",
     "description": "Deliciosa bebida a base de aguardiente de caña y limón. Se sirve bien fría con hielo.",
     "preparation_time_min": 30,
@@ -10471,6 +10845,7 @@
   },
   {
     "id": 13,
+    "uid": "bebida-13",
     "title": "Canelazo",
     "description": "El canelazo es una bebida ecuatoriana tradicional de la Sierra, se prepara mezclando agua con canela, azúcar y aguardiente. Es ideal para las noches frías o cuando llueve.",
     "preparation_time_min": 30,
@@ -10490,6 +10865,7 @@
   },
   {
     "id": 14,
+    "uid": "bebida-14",
     "title": "Capuchino",
     "description": "El capuchino es muy consumido en el Ecuador principalmente por personas que trabajan en oficinas.",
     "preparation_time_min": 15,
@@ -10510,6 +10886,7 @@
   },
   {
     "id": 15,
+    "uid": "bebida-15",
     "title": "Champús",
     "description": "Esta deliciosa bebida originaría de las culturas prehispánicas, es un tipo de mazamorra realizada principalmente con harina de maíz, frutas nativas, especias y el toque especial del chaguarmishqui. Generalmente se sirve bien frío.",
     "preparation_time_min": 30,
@@ -10539,6 +10916,7 @@
   },
   {
     "id": 16,
+    "uid": "bebida-16",
     "title": "Chicha de arroz",
     "description": "La chicha de arroz es una bebida muy refrescante. Tradicional de Ecuador. Preparada a base de arroz con un toque de canela.",
     "preparation_time_min": 120,
@@ -10568,6 +10946,7 @@
   },
   {
     "id": 17,
+    "uid": "bebida-17",
     "title": "Chicha de chontaduro y yuca",
     "description": "Esta deliciosa chicha, es una de las tradiciones gastronómicas del Ecuador. Esta bebida debe fermentarse para que adquiera el sabor fuerte y ácido que la caracteriza. Si bien es una bebida ancestral, se continúa preparando cuando es temporada del chontaduro. Anímate y no dejes de probarla.",
     "preparation_time_min": 30,
@@ -10590,6 +10969,7 @@
   },
   {
     "id": 18,
+    "uid": "bebida-18",
     "title": "Chicha de Jora",
     "description": "La chicha de jora es una bebida fermentada popular en Ecuador. Se prepara de diversas maneras según la región pero su preparación se compone principalmente de la jora, que es básicamente el maíz germinado.",
     "preparation_time_min": 30,
@@ -10612,6 +10992,7 @@
   },
   {
     "id": 19,
+    "uid": "bebida-19",
     "title": "Chicha de Piña",
     "description": "La chicha de piña es una bebida de piña que se prepara cociendo a fuego lento las cortezas y el núcleo de la piña con agua, panela o azúcar morena, y especias. Esta chicha se encuentra en la mayoría de restaurantes en Ecuador y se suelen servir como refrescos para acompañar los almuerzos.",
     "preparation_time_min": 30,
@@ -10633,6 +11014,7 @@
   },
   {
     "id": 20,
+    "uid": "bebida-20",
     "title": "Chicha de piñas",
     "description": "La chicha es una bebida que se prepara con la cocción de las cortezas y el núcleo de la piña y azúcar morena. La chicha de piña acompaña bien los almuerzos en todo Ecuador.",
     "preparation_time_min": 60,
@@ -10652,6 +11034,7 @@
   },
   {
     "id": 21,
+    "uid": "bebida-21",
     "title": "Chicha de quito",
     "description": "Bebida típica de Ecuador. Compuesta por 7 maices. Su preparación tarda varios días para fermentarse.",
     "preparation_time_min": 120,
@@ -10677,6 +11060,7 @@
   },
   {
     "id": 22,
+    "uid": "bebida-22",
     "title": "Chicha del yamor",
     "description": "Es una bebida tradicional muy popular en la cultura otavaleña. Se prepara con siete diferentes clases de maíz, y se endulza con panela. Su sabor es refrescante y es típica en las fiestas del Yamor, de allí su nombre, donde se agradece a la Madre Tierra por las cosechas.",
     "preparation_time_min": 60,
@@ -10706,6 +11090,7 @@
   },
   {
     "id": 23,
+    "uid": "bebida-23",
     "title": "Chicha Resbaladera",
     "description": "La chicha resbaladera es una bebida artesanal ecuatoriana preparada a base de arroz tradicional de la ciudad de Guayaquil. Su preparación es muy antigua, se ofrecía en las casas y en celebraciones especiales.",
     "preparation_time_min": 30,
@@ -10735,6 +11120,7 @@
   },
   {
     "id": 24,
+    "uid": "bebida-24",
     "title": "Chocolate de ambato",
     "description": "Es una bebida caliente exquisita y tradicional, que se prepara con el chocolate producido en la localidad de Ambato. Su sabor es fuerte debido a la pureza y calidad del chocolate, y con un aroma característico de las especias lo convertirán en una delicia irresistible.",
     "preparation_time_min": 60,
@@ -10757,6 +11143,7 @@
   },
   {
     "id": 25,
+    "uid": "bebida-25",
     "title": "Chucula",
     "description": "La chucula ecuatoriana, es una bebida tradicional de los pueblos originarios de Ecuador, realizada con plátanos, que se considera un energizante natural. Una delicia!",
     "preparation_time_min": 30,
@@ -10780,6 +11167,7 @@
   },
   {
     "id": 26,
+    "uid": "bebida-26",
     "title": "Chucula Ecuatoriana",
     "description": "La chucula ecuatoriana, un riquísimo batido de maduro como energizante. Esta bebida es una las tradiciones culinarias de los pueblos indígenas que aún se conserva en Ecuador.",
     "preparation_time_min": 30,
@@ -10803,6 +11191,7 @@
   },
   {
     "id": 27,
+    "uid": "bebida-27",
     "title": "Coctel ecuatoriano",
     "description": "El coctel Ecuatoriano es una rica bebida con licor o ron, con un toque de hierba buena.",
     "preparation_time_min": 30,
@@ -10826,6 +11215,7 @@
   },
   {
     "id": 28,
+    "uid": "bebida-28",
     "title": "Colada de Avena",
     "description": "Los jugos, batidos y coladas son parte integral de la cultura de Ecuador. La colada de avena, también conocida como colada quaker, es una bebida tradicional ecuatoriana que generalmente se sirve en las comidas y se puede tomar caliente o frío.",
     "preparation_time_min": 60,
@@ -10852,6 +11242,7 @@
   },
   {
     "id": 29,
+    "uid": "bebida-29",
     "title": "Colada de moras",
     "description": "La colada morada es la bebida tradicional del pueblo ecuatoriano el día que se celebra la fiesta de los difuntos, las frutas autóctonas del país son protagonistas de esta celebración.",
     "preparation_time_min": 60,
@@ -10884,6 +11275,7 @@
   },
   {
     "id": 30,
+    "uid": "bebida-30",
     "title": "Colada Morada",
     "description": "En Ecuador, como en otros países latinoamericanos, se celebra el Día de los Difuntos el 2 de Noviembre. Esta celebración va acompañada de una importante tradición gastronómica: la colada morada, una bebida espesa de color morado que se prepara con frutas típicas ecuatorianas, hierbas y especias.",
     "preparation_time_min": 30,
@@ -10919,6 +11311,7 @@
   },
   {
     "id": 31,
+    "uid": "bebida-31",
     "title": "Ensalada come y bebe",
     "description": "Esta ensalada de frutas ecuatoriana contiene frutas exóticas deliciosas y muy frescas, como papaya, sambos, piña, mango, plátanos y acompañadas con jugo de naranjas. Esta ensalada puede comerse o beberse y de allí su característico nombre.",
     "preparation_time_min": 30,
@@ -10943,6 +11336,7 @@
   },
   {
     "id": 32,
+    "uid": "bebida-32",
     "title": "Granizado de café",
     "description": "Una de las razones por las que es conocido Ecuador en todo el mundo es su exquisito café, este cóctel granizado es ideal para beberlo en una tarde de calor.",
     "preparation_time_min": 60,
@@ -10965,6 +11359,7 @@
   },
   {
     "id": 33,
+    "uid": "bebida-33",
     "title": "Guarapo ecuatoriano",
     "description": "El guarapo se hace con la caña de azúcar. Una bebida muy refrescante que tienen nutrientes, azucares,minerales y vitaminas beneficiosas para la salud",
     "preparation_time_min": 60,
@@ -10980,6 +11375,7 @@
   },
   {
     "id": 34,
+    "uid": "bebida-34",
     "title": "Horchata de ajonjolí",
     "description": "La Horchata de ajonjoli es bebida rica y refrescante. Se sirve con hielo picadito y un toque de vainilla.",
     "preparation_time_min": 30,
@@ -11003,6 +11399,7 @@
   },
   {
     "id": 35,
+    "uid": "bebida-35",
     "title": "Horchata de almendra",
     "description": "Es una bebida muy refrescante en los meses de calor. Preparada a base de almendras. Se sirve bien frio.",
     "preparation_time_min": 60,
@@ -11026,6 +11423,7 @@
   },
   {
     "id": 36,
+    "uid": "bebida-36",
     "title": "Horchata de avena",
     "description": "Bebida nutritiva y refrescante. Tradicional de Ecuador. A base de avena, leche y canela.",
     "preparation_time_min": 60,
@@ -11048,6 +11446,7 @@
   },
   {
     "id": 37,
+    "uid": "bebida-37",
     "title": "Horchata Lojana",
     "description": "La horchata de Ecuador es una bebida de color rojo o rosado, que se prepara con diferentes hierbas aromáticas como manzanilla, menta, cedrón, hierba luisa y toronjil, y flores como esencia de rosas, violetas, begonias, claveles, etc. Esta bebida, típica de la provincia de Loja, se puede tomar caliente en la mañana o fría como refresco para acompañar el almuerzo.",
     "preparation_time_min": 15,
@@ -11068,6 +11467,7 @@
   },
   {
     "id": 38,
+    "uid": "bebida-38",
     "title": "Infusión de Guayusa",
     "description": "La guayusa es planta nativa de la selva amazónica ecuatoriana. El consumo ancestral de esta bebida se ha popularizado debido a que la guayusa es utilizada para mejorar síntomas de fatiga y combatir el estrés.",
     "preparation_time_min": 120,
@@ -11091,6 +11491,7 @@
   },
   {
     "id": 39,
+    "uid": "bebida-39",
     "title": "Javishca",
     "description": "El javishca es una bebida tradicional de San José de Minas, Ecuador. Es un jugo a base de zapallo maduro con leche, que se toma en la época de cosecha.",
     "preparation_time_min": 30,
@@ -11111,6 +11512,7 @@
   },
   {
     "id": 40,
+    "uid": "bebida-40",
     "title": "Jucho",
     "description": "El Jucho es una bebida tradicional de la sierra ecuatoriana, considerada sagrada ya que se elaborada para agradecer la fertilidad de la Tierra. Se prepara a base de frutas exóticas como los capulíes y duraznos cocidos en almíbar. Su sabor es delicioso, ya que combina lo dulce de las frutas con lo aromático de las especias.",
     "preparation_time_min": 60,
@@ -11137,6 +11539,7 @@
   },
   {
     "id": 41,
+    "uid": "bebida-41",
     "title": "Jugo de alfalfa y naranjilla",
     "description": "El jugo de naranjillas con alfalfa, es una bebida natural muy saludable y nutritiva, que es del agrado de muchos ecuatorianos. Algunas variantes de jugo incluyen huevos de codorniz y otros se acompañan con “hielo del chimborazo”. Si deseas cuidar tu salud, no puedes dejar de probarlo.",
     "preparation_time_min": 30,
@@ -11157,6 +11560,7 @@
   },
   {
     "id": 42,
+    "uid": "bebida-42",
     "title": "Jugo de borojó",
     "description": "El jugo o batido de borojó es muy requerido por la población ecuatoriana ya que se le conoce como un afrodisíaco y se puede encontrar en casi todos los puestos de batidos o sorbetazos",
     "preparation_time_min": 15,
@@ -11182,6 +11586,7 @@
   },
   {
     "id": 43,
+    "uid": "bebida-43",
     "title": "Jugo de caña",
     "description": "La caña de azúcar es uno de los cultivos más antiguos del mundo y en el Ecuador existen grandes plantaciones especialmente en la provincia del Guayas, en las calles de casi todas las ciudades y pueblos podemos encontrar vendedores ambulantes de jugo de caña.",
     "preparation_time_min": 30,
@@ -11201,6 +11606,7 @@
   },
   {
     "id": 44,
+    "uid": "bebida-44",
     "title": "Jugo de ciruela",
     "description": "El jugo de ciruelas es una bebida deliciosa muy popular en Ecuador. De un sabor y una cremosidad exquisitas, combina el toque ácido de la fruta y los aromas de las especias. No dudes en probarlo.",
     "preparation_time_min": 120,
@@ -11226,6 +11632,7 @@
   },
   {
     "id": 45,
+    "uid": "bebida-45",
     "title": "Jugo de Coco",
     "description": "El jugo de coco es una de las bebidas más populares en las costas de Ecuador, ideal para refrescar en los días de sol.",
     "preparation_time_min": 15,
@@ -11246,6 +11653,7 @@
   },
   {
     "id": 46,
+    "uid": "bebida-46",
     "title": "Jugo de guanábana",
     "description": "El jugo de guanábana es una bebida muy refrescante que se consume en todas las regiones del Ecuador",
     "preparation_time_min": 15,
@@ -11267,6 +11675,7 @@
   },
   {
     "id": 47,
+    "uid": "bebida-47",
     "title": "Jugo de guayaba",
     "description": "El jugo o batido de guayaba se consume en todo el Ecuador, incluso en las islas galápagos es muy apetecido.",
     "preparation_time_min": 15,
@@ -11287,6 +11696,7 @@
   },
   {
     "id": 48,
+    "uid": "bebida-48",
     "title": "Jugo de jamaica",
     "description": "En el Ecuador se está incentivando el cultivo de la jamaica y la planta se emplea en la fabricación de jugos, refrescos, gelatinas, vinos y en pastelería.",
     "preparation_time_min": 30,
@@ -11310,6 +11720,7 @@
   },
   {
     "id": 49,
+    "uid": "bebida-49",
     "title": "Jugo de maracuyá",
     "description": "La maracuyá es una fruta típica del territorio ecuatoriano y en los hogares no puede faltar el refrescante jugo de maracuyá especialmente a la hora del almuerzo.",
     "preparation_time_min": 15,
@@ -11331,6 +11742,7 @@
   },
   {
     "id": 50,
+    "uid": "bebida-50",
     "title": "Jugo de naranjilla",
     "description": "El jugo de naranjilla, es una bebida tradicional y muy popular en los hogares ecuatorianos. Es refrescante y fácil de preparar. El sabor agridulce de la fruta le aporta a este jugo muchas propiedades y es una opción estupenda para calmar la sed.",
     "preparation_time_min": 30,
@@ -11351,6 +11763,7 @@
   },
   {
     "id": 51,
+    "uid": "bebida-51",
     "title": "Jugo de tomate de árbol",
     "description": "El tomate de árbol es muy común Ecuador y se cultiva en clima frío-templado de varías provincias de la sierra",
     "preparation_time_min": 30,
@@ -11372,6 +11785,7 @@
   },
   {
     "id": 52,
+    "uid": "bebida-52",
     "title": "Limonada",
     "description": "La limonada es un refresco muy popular en Ecuador para atenuar el calor y la sed predominantes en distintas épocas del año. Esta receta es rápida y efectiva porque todos los ingredientes van a la licuadora.",
     "preparation_time_min": 15,
@@ -11394,6 +11808,7 @@
   },
   {
     "id": 53,
+    "uid": "bebida-53",
     "title": "Limonada de Mango",
     "description": "La limonada de mango es un delicioso refresco que se prepara con una de las frutas tropicales más populares en Ecuador, el mango, junto con limón, azúcar y agua.",
     "preparation_time_min": 15,
@@ -11416,6 +11831,7 @@
   },
   {
     "id": 54,
+    "uid": "bebida-54",
     "title": "Morocho",
     "description": "El morocho es una bebida típica de Guayaquil de singular aroma y exquisito sabor que se ha popularizado en todo Ecuador. Se elabora con maíz morocho, leche, panela y canela y se suele servir con pan de yuca.",
     "preparation_time_min": 60,
@@ -11439,6 +11855,7 @@
   },
   {
     "id": 55,
+    "uid": "bebida-55",
     "title": "Morocho de maiz",
     "description": "Esta es la bebida clásica por excelencia de Guayaquil, de sabor exquisito y elaborada con maíz morocho se ha vuelvo famosa en todo el país.",
     "preparation_time_min": 30,
@@ -11462,6 +11879,7 @@
   },
   {
     "id": 56,
+    "uid": "bebida-56",
     "title": "Naranjilla ecuatoriana",
     "description": "Refrescante bebida a base de naranjilas. Con un ligero toque de vainilla. Se sirve bien fria.",
     "preparation_time_min": 30,
@@ -11481,6 +11899,7 @@
   },
   {
     "id": 57,
+    "uid": "bebida-57",
     "title": "Naranjillazo",
     "description": "El naranjillazo es una bebida ecuatoriana y una de las variaciones más populares del canelazo. Se prepara con jugo de naranjilla, una fruta de sabor ácido típica de Ecuador.",
     "preparation_time_min": 60,
@@ -11501,6 +11920,7 @@
   },
   {
     "id": 58,
+    "uid": "bebida-58",
     "title": "Ponche de leche con licor",
     "description": "El Ponche de leche con licor es una bebida que se puede servir en momentos especiales y su elaboración es muy sencilla.",
     "preparation_time_min": 30,
@@ -11523,6 +11943,7 @@
   },
   {
     "id": 59,
+    "uid": "bebida-59",
     "title": "Ponche de mortiños",
     "description": "El ponche de mortiños es una deliciosa bebida a base fresas, piña y mortiño. Esta bebida refrescante y nutritiva es ideal para servirla en cualquier ocasión.",
     "preparation_time_min": 30,
@@ -11551,6 +11972,7 @@
   },
   {
     "id": 60,
+    "uid": "bebida-60",
     "title": "Refresco casero de jengibre",
     "description": "Deliciosa bebida típica de Ecuador. A base de jengibre fresco. Se prepara fermentada.",
     "preparation_time_min": 120,
@@ -11571,6 +11993,7 @@
   },
   {
     "id": 61,
+    "uid": "bebida-61",
     "title": "Rompope",
     "description": "El rompope es una bebida ecuatoriana preparada con yemas de huevo, vainilla, canela, almendra molida, leche, azúcar y licor. Se sirve tradicionalmente en las festividades navideñas.",
     "preparation_time_min": 120,
@@ -11597,6 +12020,7 @@
   },
   {
     "id": 62,
+    "uid": "bebida-62",
     "title": "Rosero",
     "description": "El Rosero es una refrescante bebida tradicional de Quito que se prepara a base de frutas, aromatizada con especias y el toque especial del agua de rosas y azahares. Se disfruta bien fría.",
     "preparation_time_min": 30,
@@ -11630,6 +12054,7 @@
   },
   {
     "id": 63,
+    "uid": "bebida-63",
     "title": "Sangría",
     "description": "La sangría se puede brindar en todas tus reuniones, de día o de noche, la norma es prepararla con vino tinto.",
     "preparation_time_min": 15,
@@ -11655,6 +12080,7 @@
   },
   {
     "id": 64,
+    "uid": "bebida-64",
     "title": "Sorbetazo de maracuyá",
     "description": "La maracuyá es una de las frutas mas famosas del caribe, incluido todo el territorio ecuatoriano dulce y refrescante es ideal para jugos, batidos y helados.",
     "preparation_time_min": 15,
@@ -11675,6 +12101,7 @@
   },
   {
     "id": 65,
+    "uid": "bebida-65",
     "title": "Té de guayusa",
     "description": "La guayusa es una planta autóctona de la región selvática ecuatoriana. Los pueblos originarios realizan infusiones con ella ya que tiene según la cultura poderes energizantes.",
     "preparation_time_min": 30,
